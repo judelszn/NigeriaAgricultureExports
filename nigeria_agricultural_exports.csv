@@ -1,0 +1,1001 @@
+Product Name,Company,Export Country,Date,Units Sold,unit_price,Profit per unit,Export Value,Destination Port,Transportation Mode
+Rubber,Farmgate Nigeria Limited,Austria,11/16/2023,721,31443.05,5863.92,22670439.05,Lagos,Sea
+Palm Oil,Prime Agro Exports Nigeria Limited,Germany,1/8/2021,881,23151.97,5868.73,20396885.57,Lagos,Sea
+Cassava,Farmgate Nigeria Limited,Germany,10/14/2020,702,18536.45,5105.01,13012587.9,Calabar,Sea
+Rubber,Nigerian Export Promotion Council (NEPC),Belgium,12/31/2022,191,21981.31,7781.54,4198430.21,Warri,Sea
+Sesame,Nigeria Agro Export Company,France,12/19/2022,373,13415.94,9590.95,5004145.62,Lagos,Sea
+Palm Oil,Greenfield Agro Exporters Nigeria Limited,Netherlands,7/13/2021,593,44749.95,4498.48,26536720.35,Lagos,Sea
+Rubber,Solid Agro Nigeria Limited,Denmark,2/22/2022,142,21985.66,5963.85,3121963.72,Lagos,Sea
+Sesame,Nigerian Export Promotion Council (NEPC),Sweden,3/22/2021,990,16931.73,3464.19,16762412.7,Calabar,Sea
+Rubber,Agro Export Nigeria Ltd,Denmark,8/1/2022,606,17896.94,5326.45,10845545.64,Lagos,Sea
+Cashew,Golden Farms Nigeria Limited,Netherlands,11/26/2020,900,42463.53,5468.54,38217177,Lagos,Sea
+Rubber,Nigerian Export Promotion Council (NEPC),Switzerland,12/10/2022,192,23536.16,2812.83,4518942.72,Lagos,Sea
+Ginger,Agriplus Nigeria Limited,Italy,6/21/2021,566,15516.87,3043.78,8782548.42,Warri,Sea
+Cashew,Agriplus Nigeria Limited,Denmark,8/26/2022,220,37731.49,5466.27,8300927.8,Warri,Sea
+Cassava,Agro Allied Exporters Nigeria Limited,Spain,10/14/2020,963,29641.1,7617.73,28544379.3,Calabar,Sea
+Plantain,Greenfield Agro Exporters Nigeria Limited,Italy,7/10/2023,700,24041.35,3922.05,16828945,Lagos,Sea
+Plantain,Golden Farms Nigeria Limited,Sweden,6/19/2021,341,20126.79,5442.89,6863235.39,Calabar,Sea
+Rubber,Solid Agro Nigeria Limited,Austria,6/17/2022,250,27849.16,4734.07,6962290,Lagos,Sea
+Cassava,Agro Export Nigeria Ltd,Denmark,3/14/2021,641,22151.23,9884.51,14198938.43,Port Harcourt,Sea
+Rubber,Farmgate Nigeria Limited,Sweden,6/27/2021,393,23647.19,5405.19,9293345.67,Lagos,Sea
+Plantain,Nigeria Agro Export Company,Netherlands,12/23/2023,592,32644.13,7497.09,19325324.96,Lagos,Sea
+Palm Oil,Agro Allied Exporters Nigeria Limited,Belgium,8/24/2022,194,24659.84,5943.96,4784008.96,Port Harcourt,Sea
+Cocoa,Agriplus Nigeria Limited,Sweden,6/2/2022,438,43305.68,9195.72,18967887.84,Lagos,Sea
+Sesame,Agro Export Nigeria Ltd,France,7/14/2020,347,11714.81,2929.83,4065039.07,Lagos,Sea
+Cashew,Golden Farms Nigeria Limited,Sweden,10/13/2022,238,31839.65,8488.97,7577836.7,Lagos,Sea
+Rubber,Greenfield Agro Exporters Nigeria Limited,Netherlands,9/24/2023,246,39938.99,9327.05,9824991.54,Lagos,Sea
+Cocoa,Solid Agro Nigeria Limited,Sweden,6/9/2022,930,40089.03,8651.12,37282797.9,Port Harcourt,Sea
+Palm Oil,Agro Allied Exporters Nigeria Limited,Sweden,7/3/2023,218,34380.18,5264.59,7494879.24,Lagos,Sea
+Cocoa,Agro Allied Exporters Nigeria Limited,Spain,2/23/2023,981,39948.71,5611.36,39189684.51,Warri,Sea
+Cocoa,Solid Agro Nigeria Limited,Germany,10/7/2020,449,22573.52,5849.58,10135510.48,Lagos,Sea
+Sesame,Agro Export Nigeria Ltd,Austria,11/17/2020,256,34710.58,6530.19,8885908.48,Lagos,Sea
+Cashew,Nigeria Agro Export Company,Belgium,10/25/2021,309,36171.2,5485.99,11176900.8,Lagos,Sea
+Plantain,Greenfield Agro Exporters Nigeria Limited,Italy,4/11/2022,316,33608.72,8153.51,10620355.52,Port Harcourt,Sea
+Ginger,Farmgate Nigeria Limited,Netherlands,12/30/2022,519,46462.39,7563.66,24113980.41,Calabar,Sea
+Cashew,Nigeria Agro Export Company,Denmark,11/29/2020,987,38561.5,9018.41,38060200.5,Lagos,Sea
+Ginger,Agriplus Nigeria Limited,Netherlands,1/21/2022,536,10387.59,9458.22,5567748.24,Lagos,Sea
+Cocoa,Greenfield Agro Exporters Nigeria Limited,Netherlands,10/12/2023,997,32753.28,8951.58,32655020.16,Calabar,Sea
+Rubber,Prime Agro Exports Nigeria Limited,Sweden,3/26/2023,408,39571.27,5584.52,16145078.16,Lagos,Sea
+Rubber,Golden Farms Nigeria Limited,Belgium,9/30/2020,227,14985.53,2169.04,3401715.31,Lagos,Sea
+Cocoa,Agro Allied Exporters Nigeria Limited,Germany,11/25/2022,273,29358.38,5452.34,8014837.74,Warri,Sea
+Cashew,Greenfield Agro Exporters Nigeria Limited,Austria,1/9/2023,494,30668.78,5725.02,15150377.32,Lagos,Sea
+Palm Oil,Farmgate Nigeria Limited,Italy,10/10/2021,537,48105.59,5191.38,25832701.83,Lagos,Sea
+Cashew,Nigerian Export Promotion Council (NEPC),Italy,12/28/2021,360,25462.65,9477.39,9166554,Lagos,Sea
+Palm Oil,Greenfield Agro Exporters Nigeria Limited,Belgium,7/20/2020,698,36248.77,3758.47,25301641.46,Lagos,Sea
+Palm Oil,Prime Agro Exports Nigeria Limited,Sweden,1/8/2023,988,28860.1,3599.16,28513778.8,Port Harcourt,Sea
+Cocoa,Agro Allied Exporters Nigeria Limited,Denmark,4/24/2020,482,34497.66,2071.13,16627872.12,Port Harcourt,Sea
+Sesame,Agro Allied Exporters Nigeria Limited,Austria,7/10/2023,933,21358.84,5191.57,19927797.72,Lagos,Sea
+Cashew,Agro Export Nigeria Ltd,France,5/9/2023,409,48643.45,3745.48,19895171.05,Lagos,Sea
+Palm Oil,Greenfield Agro Exporters Nigeria Limited,Sweden,9/11/2020,187,26876.43,7122.88,5025892.41,Port Harcourt,Sea
+Cocoa,Agriplus Nigeria Limited,Spain,7/2/2022,640,37592.2,7882.03,24059008,Lagos,Sea
+Ginger,Agro Allied Exporters Nigeria Limited,Spain,4/22/2021,985,22041.82,9336.12,21711192.7,Port Harcourt,Sea
+Cocoa,Nigeria Agro Export Company,France,3/17/2022,746,11537.24,4261.71,8606781.04,Calabar,Sea
+Cassava,Golden Farms Nigeria Limited,Netherlands,8/6/2021,184,11548.45,4562.51,2124914.8,Port Harcourt,Sea
+Palm Oil,Nigerian Export Promotion Council (NEPC),Italy,2/12/2023,610,39943.95,7608.7,24365809.5,Lagos,Sea
+Rubber,Nigeria Agro Export Company,Spain,4/30/2020,945,20163.08,5019.62,19054110.6,Lagos,Sea
+Cocoa,Farmgate Nigeria Limited,Sweden,3/23/2021,864,40976.45,3472.61,35403652.8,Lagos,Sea
+Rubber,Agro Allied Exporters Nigeria Limited,Italy,11/8/2021,346,45825.21,2333.75,15855522.66,Warri,Sea
+Plantain,Golden Farms Nigeria Limited,Italy,8/16/2020,617,11446.76,6752.01,7062650.92,Calabar,Sea
+Cashew,Agro Export Nigeria Ltd,Spain,7/3/2020,511,28130.25,9295.18,14374557.75,Lagos,Sea
+Cassava,Prime Agro Exports Nigeria Limited,Belgium,8/29/2021,493,26013.72,5430.98,12824763.96,Port Harcourt,Sea
+Ginger,Agro Export Nigeria Ltd,Germany,2/7/2021,554,40655.79,3828.59,22523307.66,Port Harcourt,Sea
+Sesame,Nigeria Agro Export Company,France,5/24/2020,594,47688.67,9913.49,28327069.98,Lagos,Sea
+Ginger,Farmgate Nigeria Limited,Netherlands,1/29/2021,307,20303.59,7637.18,6233202.13,Lagos,Sea
+Cashew,Agriplus Nigeria Limited,Switzerland,6/17/2021,456,21633.6,4135.44,9864921.6,Calabar,Sea
+Plantain,Nigeria Agro Export Company,Spain,12/25/2020,363,21256.72,4413.29,7716189.36,Lagos,Sea
+Cocoa,Nigeria Agro Export Company,Spain,8/21/2022,337,12898.06,2443.4,4346646.22,Lagos,Sea
+Cashew,Greenfield Agro Exporters Nigeria Limited,Germany,4/8/2022,253,10966.93,2635.2,2774633.29,Port Harcourt,Sea
+Plantain,Prime Agro Exports Nigeria Limited,Sweden,8/29/2020,631,30503.36,9796.94,19247620.16,Lagos,Sea
+Palm Oil,Agriplus Nigeria Limited,Austria,8/30/2023,227,18867.01,9051.29,4282811.27,Lagos,Sea
+Cashew,Nigeria Agro Export Company,Italy,5/29/2021,494,29181.06,2446.06,14415443.64,Lagos,Sea
+Sesame,Prime Agro Exports Nigeria Limited,Italy,5/12/2023,911,24589.63,5784.62,22401152.93,Calabar,Sea
+Cocoa,Agro Allied Exporters Nigeria Limited,Sweden,2/18/2023,172,19594.66,9712,3370281.52,Warri,Sea
+Ginger,Agro Export Nigeria Ltd,Austria,6/9/2021,651,10926.4,2904.18,7113086.4,Warri,Sea
+Cashew,Farmgate Nigeria Limited,Austria,4/21/2021,238,28152.42,8234.85,6700275.96,Lagos,Sea
+Cashew,Nigeria Agro Export Company,Italy,5/25/2021,112,37672.07,5265.33,4219271.84,Lagos,Sea
+Cocoa,Prime Agro Exports Nigeria Limited,Belgium,8/31/2020,118,22796.67,4784.42,2690007.06,Lagos,Sea
+Ginger,Nigeria Agro Export Company,Austria,12/9/2022,115,37857.65,2928.51,4353629.75,Port Harcourt,Sea
+Plantain,Nigerian Export Promotion Council (NEPC),Germany,10/8/2021,999,20493.76,8990.87,20473266.24,Warri,Sea
+Rubber,Nigeria Agro Export Company,Germany,1/14/2020,189,32429.66,5579.11,6129205.74,Lagos,Sea
+Ginger,Farmgate Nigeria Limited,Spain,6/28/2020,371,15691.82,6331.62,5821665.22,Lagos,Sea
+Palm Oil,Agro Allied Exporters Nigeria Limited,Spain,7/30/2021,367,41045.83,2057.84,15063819.61,Port Harcourt,Sea
+Sesame,Farmgate Nigeria Limited,Switzerland,9/2/2021,284,34203.29,5562.73,9713734.36,Lagos,Sea
+Sesame,Prime Agro Exports Nigeria Limited,Switzerland,8/16/2022,484,19067.8,3327.57,9228815.2,Calabar,Sea
+Ginger,Agro Export Nigeria Ltd,Denmark,4/2/2023,671,47059.63,2744.68,31577011.73,Port Harcourt,Sea
+Rubber,Golden Farms Nigeria Limited,Belgium,11/25/2021,671,23316.71,3376.13,15645512.41,Lagos,Sea
+Cashew,Nigeria Agro Export Company,Italy,9/5/2020,604,26272.25,3836.47,15868439,Lagos,Sea
+Palm Oil,Solid Agro Nigeria Limited,Netherlands,8/4/2020,390,42865.76,8235.34,16717646.4,Lagos,Sea
+Cashew,Nigerian Export Promotion Council (NEPC),Switzerland,5/30/2020,444,25730.68,5539.83,11424421.92,Lagos,Sea
+Sesame,Agriplus Nigeria Limited,Spain,11/25/2023,667,20963.97,8605.95,13982967.99,Calabar,Sea
+Rubber,Agriplus Nigeria Limited,Italy,7/13/2022,272,13913.4,8925.23,3784444.8,Lagos,Sea
+Cocoa,Farmgate Nigeria Limited,Spain,3/23/2022,340,26117.99,2018.73,8880116.6,Lagos,Sea
+Ginger,Agro Allied Exporters Nigeria Limited,Denmark,9/2/2022,359,39185.03,5876.48,14067425.77,Warri,Sea
+Cassava,Agro Export Nigeria Ltd,Italy,5/13/2020,895,44627.31,6484.53,39941442.45,Calabar,Sea
+Rubber,Agro Allied Exporters Nigeria Limited,Netherlands,8/26/2022,805,18006.64,5923.04,14495345.2,Port Harcourt,Sea
+Cassava,Prime Agro Exports Nigeria Limited,Switzerland,9/10/2020,711,33178.93,7017.84,23590219.23,Lagos,Sea
+Rubber,Farmgate Nigeria Limited,Netherlands,8/4/2023,785,19604,4682.57,15389140,Lagos,Sea
+Sesame,Prime Agro Exports Nigeria Limited,Germany,4/20/2022,573,25825.9,5873.67,14798240.7,Lagos,Sea
+Ginger,Prime Agro Exports Nigeria Limited,Austria,4/17/2022,329,37602.34,5086.95,12371169.86,Lagos,Sea
+Rubber,Greenfield Agro Exporters Nigeria Limited,Germany,1/30/2020,547,40318.72,3455.24,22054339.84,Calabar,Sea
+Sesame,Nigeria Agro Export Company,Belgium,2/9/2020,346,45875.11,3490.75,15872788.06,Lagos,Sea
+Cocoa,Agro Allied Exporters Nigeria Limited,Denmark,10/1/2021,815,12663.48,6749.3,10320736.2,Port Harcourt,Sea
+Plantain,Golden Farms Nigeria Limited,Belgium,8/9/2022,386,21185.94,4796.95,8177772.84,Lagos,Sea
+Sesame,Agriplus Nigeria Limited,Belgium,3/15/2020,558,42069.64,4852.43,23474859.12,Lagos,Sea
+Cashew,Greenfield Agro Exporters Nigeria Limited,Spain,7/20/2022,275,18649.39,2111.99,5128582.25,Lagos,Sea
+Plantain,Agro Export Nigeria Ltd,Sweden,5/26/2021,359,38635.31,6945.16,13870076.29,Lagos,Sea
+Cocoa,Agriplus Nigeria Limited,Sweden,6/7/2023,540,45317.85,7712.76,24471639,Warri,Sea
+Cashew,Nigerian Export Promotion Council (NEPC),Denmark,1/24/2023,245,22058.15,9141.05,5404246.75,Port Harcourt,Sea
+Plantain,Greenfield Agro Exporters Nigeria Limited,Austria,3/23/2023,151,29521.86,9423.51,4457800.86,Lagos,Sea
+Cocoa,Prime Agro Exports Nigeria Limited,Sweden,6/3/2021,157,11352.41,6556.99,1782328.37,Lagos,Sea
+Sesame,Agro Export Nigeria Ltd,Italy,3/4/2021,711,30663.26,3202.33,21801577.86,Lagos,Sea
+Rubber,Agro Allied Exporters Nigeria Limited,Netherlands,6/13/2020,340,12752.48,2678.21,4335843.2,Lagos,Sea
+Cassava,Farmgate Nigeria Limited,Italy,3/9/2023,115,45869.9,7995.95,5275038.5,Lagos,Sea
+Cashew,Nigeria Agro Export Company,Belgium,3/31/2020,627,34746.28,9410.62,21785917.56,Lagos,Sea
+Plantain,Agro Allied Exporters Nigeria Limited,Switzerland,8/25/2020,844,34836.78,2564.43,29402242.32,Lagos,Sea
+Rubber,Golden Farms Nigeria Limited,Denmark,5/2/2023,476,46857.65,3468.63,22304241.4,Lagos,Sea
+Cocoa,Greenfield Agro Exporters Nigeria Limited,Sweden,10/1/2022,199,46862.07,7340.8,9325551.93,Calabar,Sea
+Cashew,Prime Agro Exports Nigeria Limited,France,12/24/2021,279,13571.23,9897.25,3786373.17,Calabar,Sea
+Cocoa,Agriplus Nigeria Limited,Italy,12/14/2020,332,42678.9,2935.51,14169394.8,Lagos,Sea
+Cassava,Greenfield Agro Exporters Nigeria Limited,Germany,12/30/2023,769,32821.57,8150.57,25239787.33,Lagos,Sea
+Rubber,Nigeria Agro Export Company,Sweden,2/4/2021,413,47019.51,3971.94,19419057.63,Lagos,Sea
+Cashew,Greenfield Agro Exporters Nigeria Limited,Switzerland,5/23/2023,221,49351.36,5461.08,10906650.56,Lagos,Sea
+Plantain,Farmgate Nigeria Limited,Netherlands,8/26/2022,103,12852.2,8992.5,1323776.6,Lagos,Sea
+Palm Oil,Agro Export Nigeria Ltd,Belgium,11/17/2023,936,17721.41,9564.42,16587239.76,Lagos,Sea
+Sesame,Nigerian Export Promotion Council (NEPC),France,10/5/2021,762,31063.94,8486.77,23670722.28,Lagos,Sea
+Cassava,Nigeria Agro Export Company,France,4/30/2021,377,38436.41,7116.02,14490526.57,Lagos,Sea
+Cashew,Solid Agro Nigeria Limited,France,7/6/2020,396,28963.42,9765.76,11469514.32,Calabar,Sea
+Sesame,Agro Export Nigeria Ltd,Austria,3/16/2023,810,25588.62,3915.42,20726782.2,Port Harcourt,Sea
+Cocoa,Agro Allied Exporters Nigeria Limited,Sweden,6/14/2020,166,33789.42,7069.44,5609043.72,Lagos,Sea
+Sesame,Agro Export Nigeria Ltd,Belgium,2/25/2020,613,24452.58,6241.25,14989431.54,Lagos,Sea
+Rubber,Solid Agro Nigeria Limited,Sweden,9/4/2020,567,20951.06,4547.67,11879251.02,Lagos,Sea
+Plantain,Golden Farms Nigeria Limited,Netherlands,10/3/2021,630,33495.61,4141.31,21102234.3,Lagos,Sea
+Cashew,Agro Export Nigeria Ltd,Belgium,2/8/2021,779,41434.9,4902.39,32277787.1,Lagos,Sea
+Cocoa,Farmgate Nigeria Limited,Netherlands,10/2/2021,310,27530.43,2895.68,8534433.3,Lagos,Sea
+Plantain,Prime Agro Exports Nigeria Limited,Belgium,9/2/2023,755,25170.32,6920.42,19003591.6,Lagos,Sea
+Ginger,Greenfield Agro Exporters Nigeria Limited,Denmark,11/2/2021,775,33127.43,2179.18,25673758.25,Port Harcourt,Sea
+Plantain,Agro Allied Exporters Nigeria Limited,Spain,6/4/2021,474,10811.43,3362.61,5124617.82,Lagos,Sea
+Palm Oil,Agriplus Nigeria Limited,Italy,3/30/2023,147,21580.37,5867.99,3172314.39,Lagos,Sea
+Cassava,Prime Agro Exports Nigeria Limited,Sweden,5/2/2020,662,31310.98,6516.4,20727868.76,Lagos,Sea
+Cocoa,Agro Export Nigeria Ltd,Belgium,7/29/2023,283,24034.1,8798.82,6801650.3,Lagos,Sea
+Palm Oil,Prime Agro Exports Nigeria Limited,Sweden,3/3/2021,676,22251.72,5992.39,15042162.72,Lagos,Sea
+Cocoa,Golden Farms Nigeria Limited,Germany,7/18/2023,948,14062.61,7842.17,13331354.28,Warri,Sea
+Cassava,Prime Agro Exports Nigeria Limited,Netherlands,8/11/2020,158,24848.97,5426.09,3926137.26,Port Harcourt,Sea
+Cassava,Farmgate Nigeria Limited,Germany,3/9/2022,907,17899.88,6976.49,16235191.16,Lagos,Sea
+Sesame,Prime Agro Exports Nigeria Limited,Italy,8/13/2023,737,19643.3,9374.93,14477112.1,Lagos,Sea
+Cassava,Agro Export Nigeria Ltd,France,8/10/2020,736,19997.9,8920.82,14718454.4,Lagos,Sea
+Cocoa,Golden Farms Nigeria Limited,Belgium,8/17/2020,167,24405.81,5557.46,4075770.27,Lagos,Sea
+Cashew,Prime Agro Exports Nigeria Limited,Austria,5/17/2022,603,25715.79,9586.46,15506621.37,Port Harcourt,Sea
+Rubber,Golden Farms Nigeria Limited,Spain,9/25/2023,576,49473.14,6506.39,28496528.64,Lagos,Sea
+Rubber,Agro Allied Exporters Nigeria Limited,Italy,7/26/2021,696,40906.92,5413.24,28471216.32,Lagos,Sea
+Cassava,Farmgate Nigeria Limited,Belgium,2/21/2020,312,29465.29,8310.14,9193170.48,Lagos,Sea
+Cocoa,Prime Agro Exports Nigeria Limited,Austria,1/21/2023,906,32575.54,9617.59,29513439.24,Lagos,Sea
+Cashew,Solid Agro Nigeria Limited,Spain,6/1/2023,290,40212.78,6892.54,11661706.2,Port Harcourt,Sea
+Palm Oil,Solid Agro Nigeria Limited,Austria,2/18/2021,292,27482.77,3727.66,8024968.84,Lagos,Sea
+Sesame,Agro Allied Exporters Nigeria Limited,Austria,7/27/2022,615,29388.41,4431.2,18073872.15,Lagos,Sea
+Rubber,Farmgate Nigeria Limited,Switzerland,8/15/2023,893,13305.27,7510.66,11881606.11,Warri,Sea
+Cassava,Solid Agro Nigeria Limited,Switzerland,3/26/2021,304,40982.46,9884.64,12458667.84,Lagos,Sea
+Sesame,Golden Farms Nigeria Limited,France,8/17/2022,856,38044.13,2728.58,32565775.28,Lagos,Sea
+Palm Oil,Agro Allied Exporters Nigeria Limited,Netherlands,1/30/2020,595,30005.57,7039.46,17853314.15,Lagos,Sea
+Cassava,Solid Agro Nigeria Limited,Belgium,6/26/2020,442,18782.89,5559.47,8302037.38,Port Harcourt,Sea
+Sesame,Nigeria Agro Export Company,Austria,7/10/2020,223,38450.54,9971.93,8574470.42,Lagos,Sea
+Palm Oil,Agro Export Nigeria Ltd,Netherlands,5/20/2020,316,17819.75,9927.8,5631041,Lagos,Sea
+Cocoa,Agriplus Nigeria Limited,Germany,4/1/2023,366,37718.55,3056.13,13804989.3,Lagos,Sea
+Rubber,Nigerian Export Promotion Council (NEPC),Sweden,2/5/2023,196,39859.2,7877.05,7812403.2,Lagos,Sea
+Cocoa,Greenfield Agro Exporters Nigeria Limited,Spain,8/7/2021,232,40443.45,8390.75,9382880.4,Port Harcourt,Sea
+Cocoa,Farmgate Nigeria Limited,France,10/29/2020,181,42649.85,4580.52,7719622.85,Lagos,Sea
+Cocoa,Agro Export Nigeria Ltd,Sweden,2/3/2020,990,36777.32,8027.19,36409546.8,Lagos,Sea
+Cassava,Agro Allied Exporters Nigeria Limited,Italy,4/14/2023,401,29722.65,9701.73,11918782.65,Lagos,Sea
+Ginger,Agriplus Nigeria Limited,Spain,7/6/2021,631,13405.98,9333.15,8459173.38,Lagos,Sea
+Ginger,Greenfield Agro Exporters Nigeria Limited,Switzerland,4/15/2020,175,15018.73,9030.94,2628277.75,Lagos,Sea
+Rubber,Agro Export Nigeria Ltd,Italy,6/9/2022,737,43567.37,9198.56,32109151.69,Warri,Sea
+Sesame,Solid Agro Nigeria Limited,Netherlands,7/12/2020,268,41452.96,9960.67,11109393.28,Port Harcourt,Sea
+Rubber,Agriplus Nigeria Limited,Denmark,3/25/2023,661,39910.72,6227.46,26380985.92,Calabar,Sea
+Sesame,Agro Allied Exporters Nigeria Limited,Switzerland,9/18/2023,907,42974.87,3303.73,38978207.09,Lagos,Sea
+Cassava,Agro Allied Exporters Nigeria Limited,France,10/9/2022,738,39223.54,9221.45,28946972.52,Warri,Sea
+Cashew,Golden Farms Nigeria Limited,Denmark,1/9/2020,151,15679.05,8708.71,2367536.55,Warri,Sea
+Rubber,Agro Export Nigeria Ltd,Netherlands,3/31/2021,804,28787.91,8809.98,23145479.64,Warri,Sea
+Cassava,Golden Farms Nigeria Limited,Spain,12/27/2021,881,47757.87,6806.86,42074683.47,Port Harcourt,Sea
+Rubber,Nigeria Agro Export Company,Switzerland,2/28/2022,141,44054.32,9201.08,6211659.12,Lagos,Sea
+Palm Oil,Agro Export Nigeria Ltd,France,7/31/2021,407,46822.22,6834.45,19056643.54,Calabar,Sea
+Sesame,Golden Farms Nigeria Limited,Italy,8/5/2023,864,37353.61,9363.41,32273519.04,Calabar,Sea
+Palm Oil,Agro Export Nigeria Ltd,Germany,11/7/2022,184,13442.51,6666.22,2473421.84,Lagos,Sea
+Cashew,Agriplus Nigeria Limited,Switzerland,5/25/2020,890,20914.84,7851.32,18614207.6,Lagos,Sea
+Palm Oil,Greenfield Agro Exporters Nigeria Limited,Italy,7/18/2020,814,45418.18,2352.81,36970398.52,Lagos,Sea
+Ginger,Golden Farms Nigeria Limited,Austria,7/13/2021,999,16092.91,5565.11,16076817.09,Warri,Sea
+Palm Oil,Farmgate Nigeria Limited,Belgium,7/4/2023,278,20419.17,5664.55,5676529.26,Warri,Sea
+Rubber,Agriplus Nigeria Limited,Switzerland,10/6/2021,267,17307.3,9600.96,4621049.1,Calabar,Sea
+Cassava,Golden Farms Nigeria Limited,Austria,7/5/2021,805,40476.83,9454.84,32583848.15,Port Harcourt,Sea
+Ginger,Agriplus Nigeria Limited,Spain,12/12/2020,568,39056.87,7655.01,22184302.16,Lagos,Sea
+Cocoa,Agro Export Nigeria Ltd,Denmark,5/26/2020,798,43030.42,5718.02,34338275.16,Port Harcourt,Sea
+Cassava,Prime Agro Exports Nigeria Limited,Italy,10/14/2020,405,49485.77,8763.98,20041736.85,Warri,Sea
+Ginger,Solid Agro Nigeria Limited,France,4/5/2023,347,17266.35,8076.81,5991423.45,Calabar,Sea
+Plantain,Agro Allied Exporters Nigeria Limited,France,8/19/2022,346,43082.11,9731.66,14906410.06,Lagos,Sea
+Sesame,Nigerian Export Promotion Council (NEPC),Belgium,8/17/2023,478,15759.34,9407.02,7532964.52,Lagos,Sea
+Sesame,Golden Farms Nigeria Limited,Spain,1/15/2023,406,39603.82,5227.59,16079150.92,Lagos,Sea
+Ginger,Farmgate Nigeria Limited,Germany,2/2/2022,306,28489.69,5983.88,8717845.14,Lagos,Sea
+Rubber,Farmgate Nigeria Limited,Spain,6/11/2020,673,20247.87,6035.27,13626816.51,Warri,Sea
+Palm Oil,Agro Export Nigeria Ltd,Spain,10/7/2021,795,39866.44,8970.09,31693819.8,Port Harcourt,Sea
+Cashew,Agro Export Nigeria Ltd,Netherlands,8/17/2021,293,35250.96,4432.89,10328531.28,Lagos,Sea
+Sesame,Golden Farms Nigeria Limited,Denmark,2/19/2022,679,35641.08,6425.87,24200293.32,Warri,Sea
+Ginger,Nigerian Export Promotion Council (NEPC),Belgium,2/21/2022,331,27941.06,2011.49,9248490.86,Port Harcourt,Sea
+Cassava,Golden Farms Nigeria Limited,Germany,5/2/2022,928,22893.46,4425.03,21245130.88,Lagos,Sea
+Cashew,Prime Agro Exports Nigeria Limited,Switzerland,11/21/2020,706,35409.89,6520,24999382.34,Port Harcourt,Sea
+Rubber,Solid Agro Nigeria Limited,Belgium,2/11/2022,877,36520.61,6211.19,32028574.97,Lagos,Sea
+Rubber,Solid Agro Nigeria Limited,Denmark,2/9/2021,957,27374.69,9259.27,26197578.33,Calabar,Sea
+Cassava,Golden Farms Nigeria Limited,Belgium,1/20/2021,766,13513.38,4155,10351249.08,Lagos,Sea
+Cashew,Nigeria Agro Export Company,Sweden,1/12/2022,223,41689.96,7172.86,9296861.08,Lagos,Sea
+Cashew,Golden Farms Nigeria Limited,Germany,2/8/2023,998,30576.8,2142.19,30515646.4,Lagos,Sea
+Palm Oil,Solid Agro Nigeria Limited,Austria,10/24/2022,301,15004.45,9281.36,4516339.45,Lagos,Sea
+Sesame,Agro Export Nigeria Ltd,Sweden,3/3/2022,757,33275.53,8144.09,25189576.21,Lagos,Sea
+Cassava,Greenfield Agro Exporters Nigeria Limited,Germany,3/16/2022,967,17287.05,9822.65,16716577.35,Lagos,Sea
+Cassava,Solid Agro Nigeria Limited,Germany,2/13/2020,531,16488.41,7791.27,8755345.71,Warri,Sea
+Cashew,Agro Allied Exporters Nigeria Limited,Sweden,3/10/2022,228,27992.79,4627.45,6382356.12,Calabar,Sea
+Sesame,Agro Export Nigeria Ltd,Italy,12/11/2021,846,35637.29,4083.88,30149147.34,Port Harcourt,Sea
+Palm Oil,Agro Allied Exporters Nigeria Limited,Germany,5/25/2020,246,28229.09,2527.76,6944356.14,Lagos,Sea
+Cassava,Solid Agro Nigeria Limited,Netherlands,3/4/2022,500,48937.95,2835.78,24468975,Lagos,Sea
+Sesame,Prime Agro Exports Nigeria Limited,Italy,9/12/2023,662,39462.23,2455.18,26123996.26,Port Harcourt,Sea
+Cocoa,Farmgate Nigeria Limited,Germany,4/14/2023,166,21132.81,7252.84,3508046.46,Lagos,Sea
+Sesame,Prime Agro Exports Nigeria Limited,Sweden,3/14/2022,113,44959.45,6092.14,5080417.85,Lagos,Sea
+Rubber,Nigerian Export Promotion Council (NEPC),Switzerland,12/28/2023,763,44083.97,2597.65,33636069.11,Warri,Sea
+Cashew,Agro Export Nigeria Ltd,Sweden,7/18/2021,319,26580.33,9531.2,8479125.27,Lagos,Sea
+Plantain,Nigeria Agro Export Company,Netherlands,11/14/2022,167,22070.13,2572.19,3685711.71,Calabar,Sea
+Cassava,Nigeria Agro Export Company,Austria,3/23/2022,554,12910.73,6115.26,7152544.42,Lagos,Sea
+Plantain,Agriplus Nigeria Limited,Switzerland,3/27/2023,684,42655.08,4144.4,29176074.72,Lagos,Sea
+Sesame,Agriplus Nigeria Limited,Spain,3/19/2020,619,40038.51,7040.64,24783837.69,Port Harcourt,Sea
+Cocoa,Agriplus Nigeria Limited,Austria,2/15/2021,520,25128.16,3894.72,13066643.2,Lagos,Sea
+Ginger,Farmgate Nigeria Limited,Switzerland,5/4/2022,899,27430.43,9404.06,24659956.57,Calabar,Sea
+Cashew,Agro Export Nigeria Ltd,Belgium,4/24/2022,179,11948.5,8565.61,2138781.5,Lagos,Sea
+Cashew,Agro Export Nigeria Ltd,Austria,9/11/2020,481,28731.34,7792.24,13819774.54,Port Harcourt,Sea
+Cashew,Golden Farms Nigeria Limited,Italy,3/13/2020,592,10021.32,7255.38,5932621.44,Lagos,Sea
+Cocoa,Farmgate Nigeria Limited,Netherlands,4/29/2022,339,45625.14,4973.87,15466922.46,Lagos,Sea
+Ginger,Agro Export Nigeria Ltd,Italy,10/15/2020,686,20272.96,8833.63,13907250.56,Lagos,Sea
+Cassava,Nigeria Agro Export Company,Sweden,1/13/2023,787,28262.15,4658.3,22242312.05,Lagos,Sea
+Sesame,Agriplus Nigeria Limited,Netherlands,10/18/2021,807,18090.87,7265.71,14599332.09,Lagos,Sea
+Sesame,Golden Farms Nigeria Limited,Italy,3/30/2023,663,30675.14,2723.64,20337617.82,Port Harcourt,Sea
+Cashew,Greenfield Agro Exporters Nigeria Limited,Netherlands,10/10/2023,561,12953.71,2565.69,7267031.31,Lagos,Sea
+Cassava,Nigeria Agro Export Company,Belgium,3/15/2022,163,16244.54,9874.64,2647860.02,Lagos,Sea
+Ginger,Agro Export Nigeria Ltd,Spain,8/11/2020,467,17621.38,4867.75,8229184.46,Lagos,Sea
+Palm Oil,Agro Export Nigeria Ltd,Denmark,6/14/2023,211,16085.4,7668.27,3394019.4,Port Harcourt,Sea
+Sesame,Agro Export Nigeria Ltd,Denmark,4/20/2022,674,31768.74,3973.93,21412130.76,Lagos,Sea
+Cocoa,Agriplus Nigeria Limited,Italy,12/13/2021,564,18024.78,9857.87,10165975.92,Lagos,Sea
+Cocoa,Golden Farms Nigeria Limited,Denmark,12/17/2023,856,25955.18,8075.39,22217634.08,Warri,Sea
+Sesame,Agro Export Nigeria Ltd,Switzerland,6/8/2023,228,18716.18,5460.56,4267289.04,Calabar,Sea
+Cashew,Agro Export Nigeria Ltd,Spain,12/4/2023,413,13305.43,7780.18,5495142.59,Port Harcourt,Sea
+Plantain,Golden Farms Nigeria Limited,Switzerland,8/11/2022,780,16243.24,7099.21,12669727.2,Port Harcourt,Sea
+Rubber,Nigeria Agro Export Company,Italy,9/28/2022,951,18275.44,8704.65,17379943.44,Lagos,Sea
+Cassava,Nigeria Agro Export Company,France,2/5/2020,385,49366.58,9252.64,19006133.3,Calabar,Sea
+Cassava,Agro Export Nigeria Ltd,Switzerland,7/16/2021,182,11360.04,3424.28,2067527.28,Calabar,Sea
+Palm Oil,Agro Export Nigeria Ltd,Netherlands,2/18/2020,322,44206.36,2884.76,14234447.92,Lagos,Sea
+Plantain,Farmgate Nigeria Limited,Sweden,6/26/2022,486,38153.09,9878.35,18542401.74,Warri,Sea
+Plantain,Golden Farms Nigeria Limited,France,5/6/2023,460,42176.76,2762.91,19401309.6,Lagos,Sea
+Rubber,Greenfield Agro Exporters Nigeria Limited,Sweden,2/26/2022,450,47731.6,3122.51,21479220,Lagos,Sea
+Ginger,Agriplus Nigeria Limited,Switzerland,10/29/2023,931,44314.68,7504.88,41256967.08,Lagos,Sea
+Rubber,Agro Allied Exporters Nigeria Limited,Spain,12/31/2022,383,22247.16,2470.18,8520662.28,Lagos,Sea
+Palm Oil,Nigerian Export Promotion Council (NEPC),Switzerland,6/3/2022,229,10532.67,8592.31,2411981.43,Lagos,Sea
+Cashew,Nigerian Export Promotion Council (NEPC),France,4/12/2021,777,30049.86,4993.55,23348741.22,Calabar,Sea
+Cashew,Solid Agro Nigeria Limited,Denmark,2/24/2021,973,13019.66,7802.91,12668129.18,Lagos,Sea
+Cassava,Solid Agro Nigeria Limited,Denmark,12/23/2020,395,10195.24,6032.84,4027119.8,Calabar,Sea
+Palm Oil,Solid Agro Nigeria Limited,Denmark,7/26/2020,663,11700.02,5979.08,7757113.26,Port Harcourt,Sea
+Rubber,Agro Allied Exporters Nigeria Limited,Switzerland,11/21/2020,504,37053.01,4393.65,18674717.04,Lagos,Sea
+Palm Oil,Nigerian Export Promotion Council (NEPC),France,1/8/2022,461,17111.71,4498.67,7888498.31,Lagos,Sea
+Sesame,Nigerian Export Promotion Council (NEPC),Spain,11/26/2023,964,19492.46,7012.52,18790731.44,Warri,Sea
+Plantain,Prime Agro Exports Nigeria Limited,Austria,4/18/2023,464,46932.39,8782.04,21776628.96,Lagos,Sea
+Ginger,Golden Farms Nigeria Limited,Spain,4/4/2022,296,10142.15,6846.41,3002076.4,Lagos,Sea
+Rubber,Golden Farms Nigeria Limited,Germany,1/25/2021,371,12445.21,5153.77,4617172.91,Calabar,Sea
+Palm Oil,Solid Agro Nigeria Limited,Italy,5/7/2023,883,14518.98,2316.41,12820259.34,Warri,Sea
+Cashew,Farmgate Nigeria Limited,Belgium,9/16/2020,158,33199.44,5295.09,5245511.52,Lagos,Sea
+Cocoa,Farmgate Nigeria Limited,Belgium,11/11/2020,839,20194.91,4050.93,16943529.49,Port Harcourt,Sea
+Cocoa,Solid Agro Nigeria Limited,Sweden,9/6/2022,752,33682.2,2116.71,25329014.4,Lagos,Sea
+Cashew,Agriplus Nigeria Limited,Denmark,8/29/2023,296,28499.89,4918.31,8435967.44,Calabar,Sea
+Cocoa,Solid Agro Nigeria Limited,France,11/30/2023,896,37856.44,8880.76,33919370.24,Lagos,Sea
+Palm Oil,Agro Allied Exporters Nigeria Limited,Denmark,2/27/2021,919,12736.81,5369.17,11705128.39,Lagos,Sea
+Rubber,Nigeria Agro Export Company,Italy,4/17/2020,824,10293.39,3434.07,8481753.36,Lagos,Sea
+Ginger,Solid Agro Nigeria Limited,Denmark,10/31/2023,912,36518.14,7764.13,33304543.68,Lagos,Sea
+Cashew,Greenfield Agro Exporters Nigeria Limited,Austria,5/27/2023,296,12168.22,6858.4,3601793.12,Lagos,Sea
+Cocoa,Nigeria Agro Export Company,Belgium,7/7/2021,571,27712.14,6221.24,15823631.94,Lagos,Sea
+Cocoa,Golden Farms Nigeria Limited,Netherlands,2/26/2021,999,35396.62,6036.55,35361223.38,Warri,Sea
+Cocoa,Agriplus Nigeria Limited,Switzerland,7/29/2020,355,19246.61,2599.13,6832546.55,Lagos,Sea
+Plantain,Agro Allied Exporters Nigeria Limited,Italy,3/6/2020,368,30048.91,2336.56,11057998.88,Lagos,Sea
+Rubber,Golden Farms Nigeria Limited,Netherlands,6/11/2020,794,34804.99,8456.36,27635162.06,Calabar,Sea
+Plantain,Nigerian Export Promotion Council (NEPC),France,3/5/2022,426,27262.69,8439.65,11613905.94,Lagos,Sea
+Cashew,Greenfield Agro Exporters Nigeria Limited,Austria,4/5/2022,318,24796.29,9931.61,7885220.22,Port Harcourt,Sea
+Cassava,Agro Export Nigeria Ltd,Germany,3/9/2023,553,25956.06,4281.77,14353701.18,Lagos,Sea
+Rubber,Farmgate Nigeria Limited,France,6/8/2020,133,10598.63,2227.19,1409617.79,Port Harcourt,Sea
+Ginger,Agriplus Nigeria Limited,Austria,7/18/2020,361,23661.98,2145.57,8541974.78,Lagos,Sea
+Cashew,Nigerian Export Promotion Council (NEPC),Belgium,11/16/2021,810,37294.98,9804.7,30208933.8,Lagos,Sea
+Cassava,Prime Agro Exports Nigeria Limited,Denmark,9/8/2023,205,26036.36,8100.15,5337453.8,Calabar,Sea
+Cashew,Nigeria Agro Export Company,Austria,7/5/2021,305,18218.73,9792.49,5556712.65,Lagos,Sea
+Ginger,Farmgate Nigeria Limited,Germany,6/18/2021,892,30720.69,8022.12,27402855.48,Warri,Sea
+Plantain,Solid Agro Nigeria Limited,Netherlands,7/25/2022,933,18835.79,6247.48,17573792.07,Warri,Sea
+Rubber,Farmgate Nigeria Limited,France,10/20/2021,608,24486.35,2380.14,14887700.8,Lagos,Sea
+Cocoa,Prime Agro Exports Nigeria Limited,Netherlands,3/20/2023,383,10974.92,2308.78,4203394.36,Warri,Sea
+Plantain,Agriplus Nigeria Limited,Italy,2/20/2021,662,48735.7,3116.32,32263033.4,Warri,Sea
+Sesame,Golden Farms Nigeria Limited,Switzerland,5/7/2020,995,23095.37,8369.26,22979893.15,Lagos,Sea
+Plantain,Agriplus Nigeria Limited,Germany,11/17/2021,914,34678.88,3227.13,31696496.32,Lagos,Sea
+Sesame,Nigerian Export Promotion Council (NEPC),Italy,11/9/2020,109,26372.46,8505.26,2874598.14,Lagos,Sea
+Ginger,Greenfield Agro Exporters Nigeria Limited,Germany,4/24/2022,706,47962.4,8161.97,33861454.4,Port Harcourt,Sea
+Cashew,Nigerian Export Promotion Council (NEPC),Austria,2/25/2022,928,43869.35,7665.68,40710756.8,Lagos,Sea
+Palm Oil,Nigerian Export Promotion Council (NEPC),France,10/4/2021,535,48301.99,9496.39,25841564.65,Calabar,Sea
+Cashew,Solid Agro Nigeria Limited,Sweden,11/6/2020,413,28753.55,6243.28,11875216.15,Lagos,Sea
+Cocoa,Prime Agro Exports Nigeria Limited,Austria,10/29/2020,953,30715.74,7323.65,29272100.22,Warri,Sea
+Plantain,Greenfield Agro Exporters Nigeria Limited,Sweden,4/15/2022,926,24045.41,4426.14,22266049.66,Calabar,Sea
+Plantain,Golden Farms Nigeria Limited,Spain,7/13/2023,951,30767.55,2982.69,29259940.05,Lagos,Sea
+Cashew,Prime Agro Exports Nigeria Limited,Italy,4/1/2021,394,47388.5,9454.03,18671069,Lagos,Sea
+Rubber,Nigerian Export Promotion Council (NEPC),Belgium,6/30/2022,317,15822.44,8639.12,5015713.48,Lagos,Sea
+Rubber,Agriplus Nigeria Limited,Belgium,6/24/2022,987,22652.61,3695.28,22358126.07,Lagos,Sea
+Cassava,Nigeria Agro Export Company,Switzerland,6/28/2020,427,29828.71,2279.98,12736859.17,Lagos,Sea
+Palm Oil,Golden Farms Nigeria Limited,Denmark,12/18/2022,357,18747.68,6313.93,6692921.76,Lagos,Sea
+Palm Oil,Golden Farms Nigeria Limited,Austria,11/10/2020,596,30068.44,2819.55,17920790.24,Lagos,Sea
+Palm Oil,Nigeria Agro Export Company,Italy,4/4/2023,671,28843.84,8442.44,19354216.64,Lagos,Sea
+Cocoa,Agro Export Nigeria Ltd,Italy,10/6/2021,660,29898.29,3852.77,19732871.4,Lagos,Sea
+Rubber,Greenfield Agro Exporters Nigeria Limited,Germany,12/31/2020,374,46332.41,6794.61,17328321.34,Lagos,Sea
+Ginger,Nigerian Export Promotion Council (NEPC),Germany,9/12/2022,471,11415.43,8345.6,5376667.53,Lagos,Sea
+Sesame,Agro Export Nigeria Ltd,Switzerland,2/23/2022,109,30617.79,6262.87,3337339.11,Warri,Sea
+Plantain,Agriplus Nigeria Limited,Denmark,1/10/2022,643,49198.6,9700.95,31634699.8,Calabar,Sea
+Cassava,Greenfield Agro Exporters Nigeria Limited,Netherlands,9/10/2023,415,43916.15,2860.69,18225202.25,Lagos,Sea
+Cocoa,Agriplus Nigeria Limited,France,1/18/2023,507,25077,4342.19,12714039,Calabar,Sea
+Ginger,Agro Allied Exporters Nigeria Limited,Sweden,3/31/2023,132,19176.7,2330.18,2531324.4,Lagos,Sea
+Cashew,Nigerian Export Promotion Council (NEPC),Sweden,4/19/2020,636,18138.26,6241.93,11535933.36,Lagos,Sea
+Plantain,Nigeria Agro Export Company,Spain,4/24/2020,298,48711.59,8683.01,14516053.82,Warri,Sea
+Rubber,Farmgate Nigeria Limited,Germany,10/2/2020,405,46606.43,5181.23,18875604.15,Calabar,Sea
+Ginger,Agro Allied Exporters Nigeria Limited,Belgium,5/30/2022,115,20772.65,2751.58,2388854.75,Port Harcourt,Sea
+Plantain,Farmgate Nigeria Limited,Belgium,6/23/2022,883,28437.69,8368.84,25110480.27,Lagos,Sea
+Rubber,Golden Farms Nigeria Limited,Switzerland,10/29/2022,616,33656.08,6167.99,20732145.28,Lagos,Sea
+Sesame,Nigerian Export Promotion Council (NEPC),France,8/31/2020,895,43973.47,2448.05,39356255.65,Port Harcourt,Sea
+Cashew,Nigerian Export Promotion Council (NEPC),Switzerland,9/4/2021,369,13952.52,6188.94,5148479.88,Lagos,Sea
+Cashew,Nigeria Agro Export Company,Netherlands,12/17/2023,506,49365.93,8498.57,24979160.58,Lagos,Sea
+Rubber,Golden Farms Nigeria Limited,Italy,2/28/2022,379,12061.24,8671.99,4571209.96,Port Harcourt,Sea
+Cassava,Solid Agro Nigeria Limited,France,10/4/2022,269,28501.42,4486.79,7666881.98,Lagos,Sea
+Ginger,Agro Export Nigeria Ltd,Netherlands,3/25/2020,372,20678.92,6836.12,7692558.24,Warri,Sea
+Rubber,Greenfield Agro Exporters Nigeria Limited,France,10/12/2021,182,28119.02,4905.94,5117661.64,Warri,Sea
+Plantain,Agriplus Nigeria Limited,Sweden,10/26/2023,127,35665.11,9712.97,4529468.97,Lagos,Sea
+Cocoa,Agro Export Nigeria Ltd,Denmark,1/5/2023,639,46793.26,2626.29,29900893.14,Calabar,Sea
+Plantain,Agro Allied Exporters Nigeria Limited,Sweden,10/29/2022,151,11379.89,7761.71,1718363.39,Lagos,Sea
+Cassava,Agro Export Nigeria Ltd,Sweden,11/12/2023,748,25065.32,7742.48,18748859.36,Lagos,Sea
+Rubber,Nigeria Agro Export Company,Switzerland,9/5/2023,238,11883,2853.43,2828154,Lagos,Sea
+Cassava,Agriplus Nigeria Limited,France,6/28/2023,778,15017.53,9283.59,11683638.34,Port Harcourt,Sea
+Sesame,Nigerian Export Promotion Council (NEPC),Belgium,9/17/2023,466,40846.78,8081.57,19034599.48,Calabar,Sea
+Plantain,Golden Farms Nigeria Limited,Switzerland,5/27/2023,837,16079.55,8183.76,13458583.35,Lagos,Sea
+Ginger,Agro Export Nigeria Ltd,France,5/6/2021,727,21997.05,7782.56,15991855.35,Lagos,Sea
+Cashew,Agriplus Nigeria Limited,Switzerland,11/1/2020,618,34261.66,9850.59,21173705.88,Lagos,Sea
+Rubber,Agriplus Nigeria Limited,Sweden,7/25/2021,405,13582.18,5894.22,5500782.9,Warri,Sea
+Plantain,Agriplus Nigeria Limited,Sweden,7/24/2020,498,15043.56,2367.6,7491692.88,Lagos,Sea
+Sesame,Agriplus Nigeria Limited,Denmark,8/31/2020,775,17452.74,2686.62,13525873.5,Port Harcourt,Sea
+Plantain,Agriplus Nigeria Limited,Spain,2/5/2021,617,12552.78,3859.98,7745065.26,Port Harcourt,Sea
+Cashew,Greenfield Agro Exporters Nigeria Limited,Germany,3/31/2023,278,28564.88,8098.26,7941036.64,Lagos,Sea
+Cashew,Prime Agro Exports Nigeria Limited,France,4/21/2020,123,28223.94,4207.73,3471544.62,Lagos,Sea
+Cashew,Nigeria Agro Export Company,Netherlands,6/24/2021,670,29082.54,4982.72,19485301.8,Calabar,Sea
+Plantain,Greenfield Agro Exporters Nigeria Limited,Netherlands,7/18/2022,779,26423.8,2626.87,20584140.2,Lagos,Sea
+Cocoa,Greenfield Agro Exporters Nigeria Limited,France,7/18/2022,945,32510.05,5669.22,30721997.25,Warri,Sea
+Ginger,Prime Agro Exports Nigeria Limited,Netherlands,1/12/2022,740,49218.64,3231.87,36421793.6,Lagos,Sea
+Rubber,Greenfield Agro Exporters Nigeria Limited,Switzerland,3/6/2021,199,47269.53,9258.5,9406636.47,Lagos,Sea
+Cocoa,Agro Allied Exporters Nigeria Limited,Denmark,5/31/2020,216,25895.71,5588.44,5593473.36,Lagos,Sea
+Cocoa,Solid Agro Nigeria Limited,Denmark,7/29/2020,723,24896.53,4266.1,18000191.19,Calabar,Sea
+Cocoa,Nigerian Export Promotion Council (NEPC),France,3/31/2021,673,45974,7313.46,30940502,Lagos,Sea
+Cashew,Solid Agro Nigeria Limited,Belgium,1/15/2023,555,16865.51,4394.07,9360358.05,Lagos,Sea
+Rubber,Golden Farms Nigeria Limited,Germany,6/3/2020,710,48182.29,5868.44,34209425.9,Port Harcourt,Sea
+Sesame,Solid Agro Nigeria Limited,Spain,10/19/2021,993,41505.97,4434.9,41215428.21,Warri,Sea
+Ginger,Greenfield Agro Exporters Nigeria Limited,Sweden,4/30/2023,559,30415.41,2103.4,17002214.19,Lagos,Sea
+Plantain,Nigerian Export Promotion Council (NEPC),Germany,1/23/2020,870,28422.6,7385.82,24727662,Port Harcourt,Sea
+Palm Oil,Prime Agro Exports Nigeria Limited,Germany,4/6/2023,569,45141.75,8810.63,25685655.75,Port Harcourt,Sea
+Sesame,Greenfield Agro Exporters Nigeria Limited,Belgium,4/9/2023,127,18303.06,6427.12,2324488.62,Lagos,Sea
+Plantain,Greenfield Agro Exporters Nigeria Limited,Italy,6/25/2020,430,18902.8,5916.22,8128204,Port Harcourt,Sea
+Palm Oil,Nigeria Agro Export Company,Netherlands,10/27/2021,391,19901.91,2594.44,7781646.81,Lagos,Sea
+Cocoa,Nigerian Export Promotion Council (NEPC),Denmark,1/20/2023,839,42307.64,2725.48,35496109.96,Lagos,Sea
+Cassava,Nigeria Agro Export Company,Netherlands,6/4/2023,314,33005.79,7392.48,10363818.06,Warri,Sea
+Plantain,Greenfield Agro Exporters Nigeria Limited,Denmark,11/22/2023,188,41952.09,9861.73,7886992.92,Lagos,Sea
+Rubber,Golden Farms Nigeria Limited,Italy,8/13/2023,812,10721.81,4908.79,8706109.72,Warri,Sea
+Rubber,Agro Allied Exporters Nigeria Limited,Belgium,3/17/2021,709,41015.1,8138.42,29079705.9,Warri,Sea
+Palm Oil,Farmgate Nigeria Limited,Spain,3/17/2020,783,46845.94,7199.79,36680371.02,Lagos,Sea
+Ginger,Farmgate Nigeria Limited,Italy,5/9/2023,684,32847.98,4767,22468018.32,Port Harcourt,Sea
+Cashew,Solid Agro Nigeria Limited,Spain,10/20/2022,494,15808.25,8514.16,7809275.5,Lagos,Sea
+Palm Oil,Prime Agro Exports Nigeria Limited,Netherlands,9/10/2021,248,49335.1,4909.96,12235104.8,Lagos,Sea
+Rubber,Prime Agro Exports Nigeria Limited,Belgium,11/1/2021,301,46047.77,3519.61,13860378.77,Lagos,Sea
+Sesame,Agro Export Nigeria Ltd,Denmark,7/18/2020,586,27772.8,7589.35,16274860.8,Calabar,Sea
+Cocoa,Greenfield Agro Exporters Nigeria Limited,Sweden,5/19/2021,743,20825.01,2879.25,15472982.43,Calabar,Sea
+Palm Oil,Farmgate Nigeria Limited,Netherlands,10/9/2021,428,33222.48,9269.51,14219221.44,Warri,Sea
+Cashew,Agriplus Nigeria Limited,Denmark,12/17/2023,104,28856.79,6754.28,3001106.16,Port Harcourt,Sea
+Rubber,Farmgate Nigeria Limited,Belgium,7/12/2021,599,48007.01,6015.13,28756198.99,Port Harcourt,Sea
+Ginger,Nigerian Export Promotion Council (NEPC),Netherlands,6/16/2020,115,25006.63,5301.73,2875762.45,Warri,Sea
+Sesame,Farmgate Nigeria Limited,Austria,6/9/2021,762,31052.45,5531.35,23661966.9,Lagos,Sea
+Cashew,Greenfield Agro Exporters Nigeria Limited,Netherlands,9/22/2020,479,17626.87,6801.41,8443270.73,Warri,Sea
+Rubber,Agro Export Nigeria Ltd,Italy,9/3/2021,887,39899.3,4319.57,35390679.1,Lagos,Sea
+Palm Oil,Nigerian Export Promotion Council (NEPC),Austria,5/2/2021,655,45931.66,6251.45,30085237.3,Lagos,Sea
+Plantain,Nigeria Agro Export Company,Switzerland,11/15/2020,909,19171.77,5159.22,17427138.93,Warri,Sea
+Rubber,Greenfield Agro Exporters Nigeria Limited,Sweden,12/25/2021,667,33489.07,9214.17,22337209.69,Lagos,Sea
+Cocoa,Nigeria Agro Export Company,Denmark,1/12/2023,295,15255.06,5692.82,4500242.7,Warri,Sea
+Sesame,Nigerian Export Promotion Council (NEPC),Sweden,9/7/2021,930,11752.59,7463.08,10929908.7,Lagos,Sea
+Ginger,Nigeria Agro Export Company,Switzerland,4/1/2021,808,36102.12,4257.5,29170512.96,Calabar,Sea
+Plantain,Prime Agro Exports Nigeria Limited,Netherlands,2/2/2023,589,47737.46,4814.23,28117363.94,Calabar,Sea
+Cashew,Nigerian Export Promotion Council (NEPC),Sweden,3/3/2022,212,38606.82,8270.19,8184645.84,Lagos,Sea
+Cocoa,Greenfield Agro Exporters Nigeria Limited,Germany,8/17/2023,164,44326.56,5980.31,7269555.84,Calabar,Sea
+Sesame,Agriplus Nigeria Limited,Sweden,1/16/2022,589,16688.99,5445.11,9829815.11,Lagos,Sea
+Cassava,Prime Agro Exports Nigeria Limited,Denmark,9/29/2022,438,22625.33,6130.91,9909894.54,Warri,Sea
+Sesame,Agro Allied Exporters Nigeria Limited,France,8/26/2022,880,40170.32,6843.59,35349881.6,Warri,Sea
+Rubber,Nigeria Agro Export Company,Italy,4/1/2023,483,42817.53,3137.24,20680866.99,Port Harcourt,Sea
+Cashew,Agro Allied Exporters Nigeria Limited,France,8/6/2021,551,23671.25,6023.56,13042858.75,Lagos,Sea
+Cashew,Greenfield Agro Exporters Nigeria Limited,France,12/3/2022,757,15651.76,2822.57,11848382.32,Lagos,Sea
+Rubber,Nigerian Export Promotion Council (NEPC),Switzerland,4/11/2023,131,48048.54,3265.53,6294358.74,Calabar,Sea
+Cashew,Nigerian Export Promotion Council (NEPC),Belgium,7/8/2020,804,24263.35,4847.33,19507733.4,Calabar,Sea
+Palm Oil,Agriplus Nigeria Limited,Denmark,9/6/2023,614,28806.4,3097.77,17687129.6,Lagos,Sea
+Cashew,Prime Agro Exports Nigeria Limited,Switzerland,1/27/2021,870,48583.99,3988.43,42268071.3,Lagos,Sea
+Plantain,Agro Export Nigeria Ltd,Austria,5/31/2022,539,23220.19,4742.1,12515682.41,Lagos,Sea
+Palm Oil,Agro Export Nigeria Ltd,Spain,9/20/2023,338,10969.85,9711.49,3707809.3,Calabar,Sea
+Cashew,Agro Export Nigeria Ltd,Belgium,1/31/2023,506,35141.25,6995.65,17781472.5,Warri,Sea
+Plantain,Nigerian Export Promotion Council (NEPC),Netherlands,10/1/2020,223,32345.62,8780.61,7213073.26,Lagos,Sea
+Palm Oil,Golden Farms Nigeria Limited,Belgium,11/7/2021,873,35948.04,8000.9,31382638.92,Lagos,Sea
+Cashew,Solid Agro Nigeria Limited,France,1/3/2022,633,25099.43,2601.78,15887939.19,Lagos,Sea
+Plantain,Golden Farms Nigeria Limited,Denmark,10/17/2021,874,31711.95,2679.84,27716244.3,Port Harcourt,Sea
+Cocoa,Golden Farms Nigeria Limited,Austria,1/6/2020,492,33982.23,3031.16,16719257.16,Lagos,Sea
+Sesame,Agriplus Nigeria Limited,Sweden,11/6/2020,816,24557.22,7507.36,20038691.52,Calabar,Sea
+Cashew,Solid Agro Nigeria Limited,Austria,9/9/2022,504,16636.12,4596.82,8384604.48,Port Harcourt,Sea
+Sesame,Agriplus Nigeria Limited,Italy,10/26/2023,665,47558.52,7747.05,31626415.8,Calabar,Sea
+Palm Oil,Prime Agro Exports Nigeria Limited,Denmark,2/26/2023,315,41679.02,9014.24,13128891.3,Warri,Sea
+Cocoa,Agro Allied Exporters Nigeria Limited,Netherlands,1/18/2023,179,13561.99,7189.28,2427596.21,Lagos,Sea
+Cashew,Farmgate Nigeria Limited,France,12/15/2021,773,38681.14,8033.55,29900521.22,Lagos,Sea
+Cassava,Golden Farms Nigeria Limited,Germany,11/30/2022,276,11216.66,4708.95,3095798.16,Calabar,Sea
+Cashew,Prime Agro Exports Nigeria Limited,France,7/22/2022,412,39780.13,7699.27,16389413.56,Lagos,Sea
+Sesame,Solid Agro Nigeria Limited,Italy,5/5/2022,949,38419.36,3631.91,36459972.64,Calabar,Sea
+Ginger,Agro Export Nigeria Ltd,Spain,5/5/2022,606,48515.52,6441.57,29400405.12,Lagos,Sea
+Sesame,Agro Export Nigeria Ltd,Switzerland,9/15/2020,336,45460.52,6073.91,15274734.72,Calabar,Sea
+Rubber,Prime Agro Exports Nigeria Limited,Denmark,11/6/2020,938,42349.4,5636.58,39723737.2,Port Harcourt,Sea
+Palm Oil,Greenfield Agro Exporters Nigeria Limited,Belgium,7/13/2022,305,11804.84,5226.45,3600476.2,Lagos,Sea
+Cocoa,Prime Agro Exports Nigeria Limited,Denmark,2/24/2023,696,29398.99,4816.3,20461697.04,Lagos,Sea
+Cashew,Greenfield Agro Exporters Nigeria Limited,Sweden,9/7/2021,397,29715,6060.24,11796855,Warri,Sea
+Cassava,Golden Farms Nigeria Limited,Belgium,4/2/2021,960,42119.76,7291.26,40434969.6,Lagos,Sea
+Cocoa,Nigeria Agro Export Company,Sweden,8/18/2020,442,39909.45,6492.45,17639976.9,Lagos,Sea
+Cassava,Nigeria Agro Export Company,Netherlands,11/13/2020,229,18212.59,3226.57,4170683.11,Warri,Sea
+Rubber,Agriplus Nigeria Limited,Netherlands,5/13/2021,730,44410.29,3170.9,32419511.7,Warri,Sea
+Cocoa,Farmgate Nigeria Limited,Germany,2/16/2022,972,12391.17,4739.75,12044217.24,Lagos,Sea
+Sesame,Solid Agro Nigeria Limited,Sweden,9/24/2020,903,21669.81,8838.64,19567838.43,Port Harcourt,Sea
+Plantain,Agriplus Nigeria Limited,Denmark,5/14/2021,407,24660.78,5093.85,10036937.46,Lagos,Sea
+Palm Oil,Solid Agro Nigeria Limited,Spain,2/18/2023,627,15178.04,9884.25,9516631.08,Port Harcourt,Sea
+Rubber,Agro Export Nigeria Ltd,Switzerland,3/23/2023,741,28606.38,6771.24,21197327.58,Lagos,Sea
+Ginger,Solid Agro Nigeria Limited,Austria,3/5/2020,224,45093.4,7090.2,10100921.6,Lagos,Sea
+Plantain,Golden Farms Nigeria Limited,Italy,5/15/2022,895,44466.3,6556.12,39797338.5,Lagos,Sea
+Palm Oil,Nigerian Export Promotion Council (NEPC),Netherlands,4/1/2023,180,22060.92,3219.94,3970965.6,Warri,Sea
+Sesame,Agriplus Nigeria Limited,Spain,12/30/2021,972,17424.12,6738.21,16936244.64,Port Harcourt,Sea
+Palm Oil,Prime Agro Exports Nigeria Limited,France,1/10/2022,304,41022.88,3565.88,12470955.52,Port Harcourt,Sea
+Cashew,Prime Agro Exports Nigeria Limited,Spain,7/17/2021,435,33734.24,7258.28,14674394.4,Lagos,Sea
+Palm Oil,Agro Export Nigeria Ltd,Belgium,6/5/2023,234,30962.68,6008.63,7245267.12,Port Harcourt,Sea
+Plantain,Prime Agro Exports Nigeria Limited,Belgium,6/15/2023,884,35538.5,5297.56,31416034,Lagos,Sea
+Plantain,Farmgate Nigeria Limited,Denmark,9/3/2020,646,10338.09,8152.32,6678406.14,Lagos,Sea
+Cassava,Agro Allied Exporters Nigeria Limited,Netherlands,10/24/2020,885,37238.52,5263.08,32956090.2,Lagos,Sea
+Plantain,Solid Agro Nigeria Limited,Germany,8/8/2020,463,21324.19,5651.94,9873099.97,Lagos,Sea
+Cassava,Nigeria Agro Export Company,Italy,11/4/2023,635,46224.92,4473.09,29352824.2,Lagos,Sea
+Cocoa,Agro Allied Exporters Nigeria Limited,Belgium,7/2/2022,331,40975.54,5778.24,13562903.74,Calabar,Sea
+Sesame,Greenfield Agro Exporters Nigeria Limited,Germany,9/23/2022,519,23287.18,9858.14,12086046.42,Calabar,Sea
+Cashew,Prime Agro Exports Nigeria Limited,Switzerland,11/29/2022,558,37757.63,8787.98,21068757.54,Lagos,Sea
+Cocoa,Golden Farms Nigeria Limited,France,5/27/2021,480,12519.37,8790.94,6009297.6,Lagos,Sea
+Cocoa,Greenfield Agro Exporters Nigeria Limited,Italy,8/23/2023,858,41834.28,2100.66,35893812.24,Lagos,Sea
+Plantain,Greenfield Agro Exporters Nigeria Limited,Netherlands,1/30/2020,458,13812.54,3177.15,6326143.32,Lagos,Sea
+Ginger,Nigeria Agro Export Company,Austria,10/17/2023,345,40531.92,8482.65,13983512.4,Lagos,Sea
+Cocoa,Solid Agro Nigeria Limited,Sweden,7/18/2023,238,26925.18,2901.45,6408192.84,Lagos,Sea
+Rubber,Agro Export Nigeria Ltd,Netherlands,9/15/2023,972,28660.03,8220.25,27857549.16,Warri,Sea
+Rubber,Greenfield Agro Exporters Nigeria Limited,Netherlands,11/20/2020,491,45962.15,6370.54,22567415.65,Lagos,Sea
+Cocoa,Agro Allied Exporters Nigeria Limited,France,7/7/2022,954,32313.86,6873.64,30827422.44,Port Harcourt,Sea
+Cocoa,Agriplus Nigeria Limited,Spain,4/15/2021,262,27644.22,2134.18,7242785.64,Lagos,Sea
+Plantain,Nigeria Agro Export Company,Germany,12/18/2021,673,43898.69,2563.04,29543818.37,Lagos,Sea
+Cocoa,Agro Export Nigeria Ltd,Belgium,3/4/2023,513,40829.59,5780.88,20945579.67,Calabar,Sea
+Rubber,Golden Farms Nigeria Limited,Netherlands,12/23/2020,684,22639.19,9105.12,15485205.96,Warri,Sea
+Plantain,Greenfield Agro Exporters Nigeria Limited,Belgium,8/28/2020,230,33065.69,7570.06,7605108.7,Lagos,Sea
+Sesame,Nigerian Export Promotion Council (NEPC),Switzerland,1/4/2021,877,33879.55,5665.66,29712365.35,Lagos,Sea
+Plantain,Greenfield Agro Exporters Nigeria Limited,Switzerland,10/27/2021,425,45040.57,8443.98,19142242.25,Lagos,Sea
+Plantain,Greenfield Agro Exporters Nigeria Limited,Germany,6/12/2022,384,21222.42,4490.56,8149409.28,Calabar,Sea
+Cashew,Solid Agro Nigeria Limited,Denmark,3/13/2022,425,18775.34,5343.85,7979519.5,Lagos,Sea
+Rubber,Nigeria Agro Export Company,Netherlands,5/31/2021,842,44116.31,3737.61,37145933.02,Lagos,Sea
+Ginger,Agro Export Nigeria Ltd,Italy,1/8/2020,866,37209.43,8028.81,32223366.38,Lagos,Sea
+Plantain,Agro Allied Exporters Nigeria Limited,France,5/15/2023,282,46063.17,3544.77,12989813.94,Warri,Sea
+Cassava,Agriplus Nigeria Limited,Denmark,10/14/2023,823,14356.92,7452.1,11815745.16,Lagos,Sea
+Rubber,Solid Agro Nigeria Limited,Switzerland,8/10/2021,343,48026.63,6193.02,16473134.09,Lagos,Sea
+Ginger,Greenfield Agro Exporters Nigeria Limited,Spain,12/15/2021,525,21719.7,9485.05,11402842.5,Lagos,Sea
+Rubber,Solid Agro Nigeria Limited,Denmark,12/19/2021,562,48517.1,3273.33,27266610.2,Lagos,Sea
+Cocoa,Prime Agro Exports Nigeria Limited,Spain,7/19/2020,258,43253.51,3922.14,11159405.58,Warri,Sea
+Ginger,Agro Export Nigeria Ltd,Spain,11/13/2021,385,21988.74,2986.5,8465664.9,Lagos,Sea
+Plantain,Nigeria Agro Export Company,France,1/11/2022,538,16103.22,9497.29,8663532.36,Lagos,Sea
+Ginger,Farmgate Nigeria Limited,Switzerland,7/17/2020,499,20654.53,9398.38,10306610.47,Lagos,Sea
+Palm Oil,Agriplus Nigeria Limited,Spain,4/25/2021,498,10454.43,7341.9,5206306.14,Lagos,Sea
+Sesame,Agro Export Nigeria Ltd,Netherlands,6/6/2022,586,33793.72,9831.95,19803119.92,Calabar,Sea
+Cashew,Greenfield Agro Exporters Nigeria Limited,Sweden,3/27/2022,462,40352.05,5985.5,18642647.1,Lagos,Sea
+Palm Oil,Agro Allied Exporters Nigeria Limited,France,7/15/2020,797,44352.82,8523.69,35349197.54,Port Harcourt,Sea
+Sesame,Nigerian Export Promotion Council (NEPC),Austria,4/26/2022,249,43575.52,5482.79,10850304.48,Lagos,Sea
+Cashew,Farmgate Nigeria Limited,Belgium,5/14/2021,407,17240.74,7258.3,7016981.18,Lagos,Sea
+Sesame,Nigeria Agro Export Company,Belgium,7/31/2020,803,13464.75,4787.78,10812194.25,Warri,Sea
+Palm Oil,Nigeria Agro Export Company,Italy,4/13/2021,326,13973.69,7279.87,4555422.94,Lagos,Sea
+Cocoa,Solid Agro Nigeria Limited,Belgium,1/9/2022,394,32556.2,8455.97,12827142.8,Warri,Sea
+Sesame,Agriplus Nigeria Limited,Switzerland,8/24/2020,280,25327.4,6295.63,7091672,Lagos,Sea
+Sesame,Greenfield Agro Exporters Nigeria Limited,Spain,5/19/2022,716,19523.8,7102.27,13979040.8,Calabar,Sea
+Ginger,Agro Export Nigeria Ltd,Switzerland,7/23/2020,522,38587.91,7291.1,20142889.02,Lagos,Sea
+Ginger,Golden Farms Nigeria Limited,Sweden,3/24/2022,196,31132.11,5678.06,6101893.56,Lagos,Sea
+Plantain,Nigerian Export Promotion Council (NEPC),Denmark,8/11/2020,578,48791.16,6835.16,28201290.48,Lagos,Sea
+Plantain,Agro Allied Exporters Nigeria Limited,France,7/15/2023,562,15317.68,4424.41,8608536.16,Port Harcourt,Sea
+Cashew,Golden Farms Nigeria Limited,Italy,4/13/2022,900,27487.89,7714.09,24739101,Lagos,Sea
+Sesame,Agriplus Nigeria Limited,Spain,3/30/2023,266,27835.87,4866.09,7404341.42,Lagos,Sea
+Cashew,Solid Agro Nigeria Limited,Sweden,3/10/2023,403,12673.28,3954.67,5107331.84,Port Harcourt,Sea
+Palm Oil,Agro Allied Exporters Nigeria Limited,Sweden,6/2/2022,322,24656.86,9823.39,7939508.92,Lagos,Sea
+Cashew,Farmgate Nigeria Limited,Italy,8/6/2020,492,49229.66,7287.84,24220992.72,Lagos,Sea
+Cashew,Nigeria Agro Export Company,Belgium,6/30/2021,469,40500.51,9256.95,18994739.19,Calabar,Sea
+Palm Oil,Solid Agro Nigeria Limited,Netherlands,11/18/2020,617,10920.48,7123.67,6737936.16,Port Harcourt,Sea
+Cassava,Nigerian Export Promotion Council (NEPC),Austria,4/7/2020,825,44058.73,4559.39,36348452.25,Warri,Sea
+Cassava,Prime Agro Exports Nigeria Limited,Italy,12/21/2021,243,29602.28,9786.18,7193354.04,Warri,Sea
+Ginger,Agro Export Nigeria Ltd,Switzerland,10/7/2023,967,40625.11,2102.62,39284481.37,Port Harcourt,Sea
+Cassava,Golden Farms Nigeria Limited,Denmark,4/26/2022,185,14847.32,3544.82,2746754.2,Port Harcourt,Sea
+Ginger,Agriplus Nigeria Limited,Denmark,5/21/2023,181,24434.41,5026.98,4422628.21,Warri,Sea
+Ginger,Farmgate Nigeria Limited,Belgium,3/15/2022,173,14946.11,3265.19,2585677.03,Lagos,Sea
+Palm Oil,Farmgate Nigeria Limited,Spain,4/28/2021,437,34043.56,9211.58,14877035.72,Lagos,Sea
+Cassava,Prime Agro Exports Nigeria Limited,Netherlands,9/22/2022,326,36801.15,6544.27,11997174.9,Lagos,Sea
+Cassava,Greenfield Agro Exporters Nigeria Limited,Switzerland,9/20/2023,681,26580.76,8722.94,18101497.56,Warri,Sea
+Plantain,Agro Allied Exporters Nigeria Limited,Switzerland,12/20/2020,222,17101.55,9701.85,3796544.1,Calabar,Sea
+Ginger,Nigeria Agro Export Company,Netherlands,7/25/2020,443,27640.45,7433.24,12244719.35,Calabar,Sea
+Cassava,Prime Agro Exports Nigeria Limited,France,3/13/2021,928,38172.49,7185.46,35424070.72,Lagos,Sea
+Cassava,Nigeria Agro Export Company,Switzerland,9/5/2020,242,31257.41,4475.98,7564293.22,Lagos,Sea
+Palm Oil,Greenfield Agro Exporters Nigeria Limited,Spain,10/28/2022,485,21156.93,3688.43,10261111.05,Calabar,Sea
+Palm Oil,Agro Allied Exporters Nigeria Limited,Spain,8/20/2023,863,49549.96,4979.97,42761615.48,Lagos,Sea
+Cocoa,Agro Allied Exporters Nigeria Limited,Spain,8/7/2021,231,37383.65,6025.9,8635623.15,Lagos,Sea
+Cassava,Solid Agro Nigeria Limited,France,11/30/2020,165,30565.62,6590.04,5043327.3,Lagos,Sea
+Palm Oil,Greenfield Agro Exporters Nigeria Limited,Germany,7/24/2021,169,36340.15,4211.5,6141485.35,Calabar,Sea
+Cassava,Nigerian Export Promotion Council (NEPC),Germany,3/16/2021,634,20602.99,5428.66,13062295.66,Calabar,Sea
+Sesame,Farmgate Nigeria Limited,Germany,2/25/2022,180,35098.42,3193.55,6317715.6,Warri,Sea
+Cashew,Agriplus Nigeria Limited,Netherlands,8/18/2021,109,37687.33,8794.43,4107918.97,Warri,Sea
+Sesame,Solid Agro Nigeria Limited,Austria,4/14/2023,495,49344.94,3262.03,24425745.3,Lagos,Sea
+Cashew,Agro Export Nigeria Ltd,France,12/25/2021,595,49952.76,3880.69,29721892.2,Calabar,Sea
+Cocoa,Golden Farms Nigeria Limited,Austria,11/25/2023,881,41023.6,9427.3,36141791.6,Port Harcourt,Sea
+Plantain,Nigerian Export Promotion Council (NEPC),Denmark,2/4/2021,760,21238.1,8712.13,16140956,Lagos,Sea
+Sesame,Solid Agro Nigeria Limited,Sweden,2/2/2021,212,13659.53,4407.05,2895820.36,Lagos,Sea
+Plantain,Prime Agro Exports Nigeria Limited,Denmark,7/19/2020,492,23415.71,3262.88,11520529.32,Port Harcourt,Sea
+Ginger,Solid Agro Nigeria Limited,Spain,5/9/2021,539,44640.26,6879.9,24061100.14,Lagos,Sea
+Cassava,Nigerian Export Promotion Council (NEPC),Switzerland,12/23/2022,795,11706.54,3838.45,9306699.3,Lagos,Sea
+Rubber,Nigerian Export Promotion Council (NEPC),Italy,7/16/2022,995,19174.71,7622.54,19078836.45,Calabar,Sea
+Cassava,Agro Allied Exporters Nigeria Limited,Sweden,6/3/2022,926,41066.23,7386.88,38027328.98,Calabar,Sea
+Cashew,Nigeria Agro Export Company,Italy,3/4/2020,537,18603.64,5520.33,9990154.68,Warri,Sea
+Cassava,Greenfield Agro Exporters Nigeria Limited,Spain,12/6/2021,364,20676.03,6076.57,7526074.92,Lagos,Sea
+Cocoa,Farmgate Nigeria Limited,France,8/31/2021,296,15129.48,8612.34,4478326.08,Lagos,Sea
+Cashew,Prime Agro Exports Nigeria Limited,France,7/18/2020,647,24424.61,4660.79,15802722.67,Calabar,Sea
+Palm Oil,Agriplus Nigeria Limited,Netherlands,8/12/2020,988,41728.32,4505.7,41227580.16,Lagos,Sea
+Cashew,Greenfield Agro Exporters Nigeria Limited,Denmark,7/12/2020,774,24784.46,6047.25,19183172.04,Lagos,Sea
+Sesame,Solid Agro Nigeria Limited,Belgium,10/16/2021,181,12844.9,4897.65,2324926.9,Lagos,Sea
+Ginger,Prime Agro Exports Nigeria Limited,Spain,6/16/2023,589,38608.54,2144.47,22740430.06,Lagos,Sea
+Palm Oil,Solid Agro Nigeria Limited,Italy,8/18/2022,282,44740.94,5574.34,12616945.08,Lagos,Sea
+Sesame,Golden Farms Nigeria Limited,Switzerland,5/13/2022,137,15527.66,8331.52,2127289.42,Lagos,Sea
+Cocoa,Greenfield Agro Exporters Nigeria Limited,Denmark,6/30/2020,689,29393.13,3650.64,20251866.57,Lagos,Sea
+Cassava,Solid Agro Nigeria Limited,Germany,8/21/2023,672,10006.54,8641.69,6724394.88,Port Harcourt,Sea
+Ginger,Prime Agro Exports Nigeria Limited,Italy,1/10/2023,435,41081.23,5890.73,17870335.05,Lagos,Sea
+Cocoa,Golden Farms Nigeria Limited,Austria,1/24/2020,847,19595.1,8836.62,16597049.7,Calabar,Sea
+Plantain,Golden Farms Nigeria Limited,Italy,10/13/2023,872,12470.14,4780.03,10873962.08,Warri,Sea
+Cassava,Nigeria Agro Export Company,Spain,8/5/2022,261,18757.63,2017.08,4895741.43,Lagos,Sea
+Cassava,Prime Agro Exports Nigeria Limited,France,6/30/2023,206,23127.65,6971.83,4764295.9,Calabar,Sea
+Sesame,Nigeria Agro Export Company,Italy,8/19/2020,983,32503.8,5624.4,31951235.4,Lagos,Sea
+Cassava,Farmgate Nigeria Limited,Belgium,12/1/2023,540,40199.84,9026.4,21707913.6,Lagos,Sea
+Rubber,Golden Farms Nigeria Limited,Belgium,3/13/2022,290,36322.87,9201.4,10533632.3,Lagos,Sea
+Sesame,Agro Allied Exporters Nigeria Limited,Switzerland,6/27/2022,776,37554.32,6300.28,29142152.32,Lagos,Sea
+Rubber,Nigerian Export Promotion Council (NEPC),Germany,6/18/2023,247,48726.71,2469.69,12035497.37,Lagos,Sea
+Sesame,Agriplus Nigeria Limited,France,5/1/2022,321,14556.35,5906.37,4672588.35,Lagos,Sea
+Rubber,Prime Agro Exports Nigeria Limited,Germany,2/2/2023,472,24963.59,3199.59,11782814.48,Lagos,Sea
+Cassava,Golden Farms Nigeria Limited,Denmark,4/19/2021,155,19830.81,9336.83,3073775.55,Lagos,Sea
+Cassava,Agriplus Nigeria Limited,Austria,7/22/2021,394,10137.63,9407.81,3994226.22,Lagos,Sea
+Cocoa,Nigerian Export Promotion Council (NEPC),Belgium,3/27/2020,435,15057.51,5455.6,6550016.85,Calabar,Sea
+Cashew,Golden Farms Nigeria Limited,Netherlands,12/17/2020,620,35549.32,2269.97,22040578.4,Port Harcourt,Sea
+Plantain,Golden Farms Nigeria Limited,France,9/16/2023,309,43808.94,3213.71,13536962.46,Lagos,Sea
+Cashew,Nigerian Export Promotion Council (NEPC),France,11/8/2020,898,21737.75,5661.66,19520499.5,Lagos,Sea
+Cassava,Agriplus Nigeria Limited,Germany,10/8/2020,518,11462.7,9321.44,5937678.6,Warri,Sea
+Cocoa,Nigeria Agro Export Company,Sweden,9/20/2023,264,49192.22,4003.23,12986746.08,Port Harcourt,Sea
+Sesame,Prime Agro Exports Nigeria Limited,Switzerland,7/24/2022,329,43020.95,6895.44,14153892.55,Calabar,Sea
+Palm Oil,Solid Agro Nigeria Limited,Switzerland,8/5/2021,493,40539.5,2449.86,19985973.5,Lagos,Sea
+Cashew,Agro Export Nigeria Ltd,Belgium,8/14/2022,884,49041.91,3226.31,43353048.44,Lagos,Sea
+Palm Oil,Golden Farms Nigeria Limited,France,1/7/2020,656,15181.46,8490.12,9959037.76,Port Harcourt,Sea
+Cocoa,Greenfield Agro Exporters Nigeria Limited,Italy,4/10/2020,741,47745.33,7767.31,35379289.53,Lagos,Sea
+Rubber,Nigerian Export Promotion Council (NEPC),Spain,10/2/2023,558,27269.5,7661.93,15216381,Lagos,Sea
+Ginger,Golden Farms Nigeria Limited,Belgium,1/13/2020,967,22317.21,8745.61,21580742.07,Calabar,Sea
+Cocoa,Solid Agro Nigeria Limited,Spain,5/23/2023,708,34554.94,4062.57,24464897.52,Lagos,Sea
+Cassava,Farmgate Nigeria Limited,Switzerland,10/11/2022,150,23193.26,4943.25,3478989,Warri,Sea
+Cassava,Prime Agro Exports Nigeria Limited,Germany,12/25/2021,584,44793.37,7045.51,26159328.08,Lagos,Sea
+Cocoa,Solid Agro Nigeria Limited,Austria,7/18/2022,357,46900.29,2786.12,16743403.53,Port Harcourt,Sea
+Ginger,Greenfield Agro Exporters Nigeria Limited,Sweden,9/25/2023,877,30508.22,7705.96,26755708.94,Lagos,Sea
+Cassava,Solid Agro Nigeria Limited,Italy,11/22/2023,118,48123.38,4260.18,5678558.84,Lagos,Sea
+Plantain,Agro Export Nigeria Ltd,Spain,5/18/2020,347,23501.68,4710.34,8155082.96,Lagos,Sea
+Cashew,Nigeria Agro Export Company,Sweden,8/6/2021,195,22573.75,8379.05,4401881.25,Lagos,Sea
+Cocoa,Agro Export Nigeria Ltd,Italy,4/20/2020,276,35183.88,7272.88,9710750.88,Port Harcourt,Sea
+Palm Oil,Nigeria Agro Export Company,Austria,1/20/2020,489,28847.43,7921.57,14106393.27,Lagos,Sea
+Cocoa,Farmgate Nigeria Limited,Austria,9/16/2023,989,31752.95,7600.6,31403667.55,Warri,Sea
+Cocoa,Agro Allied Exporters Nigeria Limited,Germany,3/24/2021,564,23783.54,5997.33,13413916.56,Warri,Sea
+Cocoa,Agriplus Nigeria Limited,Italy,7/31/2020,410,42063.46,8620.2,17246018.6,Port Harcourt,Sea
+Ginger,Nigerian Export Promotion Council (NEPC),Sweden,2/2/2023,794,22692.69,4559.66,18017995.86,Lagos,Sea
+Cassava,Agriplus Nigeria Limited,Austria,5/17/2022,780,22739.59,2869.67,17736880.2,Lagos,Sea
+Cocoa,Golden Farms Nigeria Limited,Denmark,9/2/2020,997,23337.7,5441.12,23267686.9,Lagos,Sea
+Sesame,Agro Allied Exporters Nigeria Limited,Switzerland,5/7/2023,248,30929.2,2548.66,7670441.6,Lagos,Sea
+Sesame,Nigerian Export Promotion Council (NEPC),Italy,5/23/2022,471,38081.7,8208.72,17936480.7,Calabar,Sea
+Cassava,Solid Agro Nigeria Limited,Switzerland,11/26/2023,939,47201.02,6623.62,44321757.78,Lagos,Sea
+Cocoa,Nigerian Export Promotion Council (NEPC),Italy,12/31/2021,544,31992.21,6314.66,17403762.24,Warri,Sea
+Cocoa,Agriplus Nigeria Limited,Germany,3/13/2020,644,11922.17,2972.84,7677877.48,Lagos,Sea
+Sesame,Agro Export Nigeria Ltd,Denmark,6/25/2020,341,41425.59,9653.47,14126126.19,Lagos,Sea
+Palm Oil,Agriplus Nigeria Limited,Switzerland,11/4/2022,961,35793.54,2956.63,34397591.94,Lagos,Sea
+Sesame,Prime Agro Exports Nigeria Limited,Belgium,2/16/2021,719,31328.17,4687.24,22524954.23,Lagos,Sea
+Ginger,Greenfield Agro Exporters Nigeria Limited,France,7/30/2021,350,47157.35,3777.28,16505072.5,Lagos,Sea
+Palm Oil,Prime Agro Exports Nigeria Limited,Germany,12/19/2022,387,48052.05,4922.24,18596143.35,Warri,Sea
+Plantain,Farmgate Nigeria Limited,Netherlands,8/23/2023,199,23511.99,4799.4,4678886.01,Lagos,Sea
+Cashew,Farmgate Nigeria Limited,Austria,2/26/2022,687,33342.97,6500.51,22906620.39,Lagos,Sea
+Sesame,Farmgate Nigeria Limited,Netherlands,10/30/2020,452,12026.68,3115.04,5436059.36,Lagos,Sea
+Palm Oil,Agro Export Nigeria Ltd,France,2/8/2022,659,49156.21,8159.59,32393942.39,Lagos,Sea
+Plantain,Greenfield Agro Exporters Nigeria Limited,Switzerland,10/25/2021,575,10306.64,4159.79,5926318,Lagos,Sea
+Cashew,Agro Export Nigeria Ltd,France,11/11/2023,608,26360.69,9315.67,16027299.52,Lagos,Sea
+Plantain,Solid Agro Nigeria Limited,Germany,6/15/2022,825,44517.66,7496.94,36727069.5,Lagos,Sea
+Cocoa,Prime Agro Exports Nigeria Limited,Belgium,9/21/2023,499,39950.24,6053.8,19935169.76,Lagos,Sea
+Sesame,Agro Export Nigeria Ltd,Austria,10/22/2023,410,23384.86,9149.14,9587792.6,Port Harcourt,Sea
+Plantain,Nigeria Agro Export Company,Spain,8/13/2020,743,26050.96,3800.89,19355863.28,Lagos,Sea
+Cashew,Agro Export Nigeria Ltd,Switzerland,5/3/2023,600,35084.68,5515.51,21050808,Warri,Sea
+Palm Oil,Farmgate Nigeria Limited,Belgium,9/4/2020,851,33435.72,7910.73,28453797.72,Lagos,Sea
+Rubber,Agro Allied Exporters Nigeria Limited,Germany,2/5/2020,435,19481.19,4810.38,8474317.65,Warri,Sea
+Sesame,Solid Agro Nigeria Limited,Austria,8/5/2023,797,19485.29,3002.8,15529776.13,Lagos,Sea
+Cashew,Agro Export Nigeria Ltd,Belgium,5/28/2023,653,43827.24,5249.1,28619187.72,Lagos,Sea
+Cassava,Nigeria Agro Export Company,Sweden,3/20/2020,137,22503.47,4193.51,3082975.39,Lagos,Sea
+Rubber,Nigerian Export Promotion Council (NEPC),Belgium,4/14/2020,558,36199.92,5054.37,20199555.36,Port Harcourt,Sea
+Ginger,Prime Agro Exports Nigeria Limited,Germany,7/30/2023,315,48540.47,2187.98,15290248.05,Lagos,Sea
+Cassava,Golden Farms Nigeria Limited,Switzerland,6/8/2021,506,37983.2,5305.54,19219499.2,Calabar,Sea
+Plantain,Solid Agro Nigeria Limited,Netherlands,12/30/2020,574,13194.29,8175.79,7573522.46,Warri,Sea
+Plantain,Agro Export Nigeria Ltd,Spain,6/9/2023,744,17166.97,7770.71,12772225.68,Warri,Sea
+Sesame,Nigeria Agro Export Company,Belgium,4/2/2023,230,46533.71,4092.35,10702753.3,Warri,Sea
+Cashew,Farmgate Nigeria Limited,France,12/24/2021,634,40807.39,9589.53,25871885.26,Lagos,Sea
+Rubber,Nigerian Export Promotion Council (NEPC),Spain,1/28/2022,654,30960.47,9761.35,20248147.38,Lagos,Sea
+Cashew,Nigeria Agro Export Company,Spain,12/20/2023,490,23893.95,5788.54,11708035.5,Calabar,Sea
+Ginger,Solid Agro Nigeria Limited,Denmark,5/8/2022,825,42082.19,5341.84,34717806.75,Lagos,Sea
+Rubber,Agriplus Nigeria Limited,Switzerland,10/3/2022,722,46749.58,4146.22,33753196.76,Warri,Sea
+Ginger,Golden Farms Nigeria Limited,Belgium,7/2/2022,313,21553.66,7531.22,6746295.58,Warri,Sea
+Cassava,Agro Export Nigeria Ltd,Germany,3/29/2022,337,15499.43,3381.24,5223307.91,Lagos,Sea
+Plantain,Farmgate Nigeria Limited,Belgium,7/7/2021,626,42679.03,7839.31,26717072.78,Calabar,Sea
+Ginger,Agro Export Nigeria Ltd,Germany,1/28/2023,391,40770.5,4126.14,15941265.5,Port Harcourt,Sea
+Cashew,Agriplus Nigeria Limited,Denmark,5/10/2020,445,20520.44,6305.29,9131595.8,Lagos,Sea
+Cashew,Prime Agro Exports Nigeria Limited,Switzerland,6/26/2021,627,28634.29,6333.2,17953699.83,Warri,Sea
+Palm Oil,Agro Allied Exporters Nigeria Limited,Sweden,2/20/2020,298,29848.18,2491.82,8894757.64,Calabar,Sea
+Rubber,Farmgate Nigeria Limited,Germany,1/14/2022,579,46260.7,3869.83,26784945.3,Calabar,Sea
+Plantain,Nigeria Agro Export Company,France,2/14/2021,415,45905.28,7271.19,19050691.2,Lagos,Sea
+Palm Oil,Solid Agro Nigeria Limited,Germany,11/24/2021,840,49351.45,4574.66,41455218,Lagos,Sea
+Plantain,Nigeria Agro Export Company,Italy,2/26/2021,376,35980.93,7571.43,13528829.68,Lagos,Sea
+Sesame,Agro Allied Exporters Nigeria Limited,Switzerland,9/28/2022,969,33912.2,6646.6,32860921.8,Lagos,Sea
+Ginger,Farmgate Nigeria Limited,Denmark,6/16/2020,647,40768.56,8852.05,26377258.32,Port Harcourt,Sea
+Cashew,Farmgate Nigeria Limited,Denmark,12/23/2021,188,38387.23,9785.67,7216799.24,Calabar,Sea
+Sesame,Nigerian Export Promotion Council (NEPC),Belgium,1/4/2023,108,34228.64,9645.39,3696693.12,Lagos,Sea
+Cassava,Agriplus Nigeria Limited,Denmark,3/16/2021,275,21247.69,5273.59,5843114.75,Lagos,Sea
+Sesame,Nigerian Export Promotion Council (NEPC),Spain,8/13/2023,234,43772.23,6472.47,10242701.82,Lagos,Sea
+Cocoa,Golden Farms Nigeria Limited,Netherlands,6/7/2022,181,46007.28,9692.49,8327317.68,Lagos,Sea
+Sesame,Greenfield Agro Exporters Nigeria Limited,Belgium,12/3/2021,750,48870.19,9474.77,36652642.5,Lagos,Sea
+Cassava,Prime Agro Exports Nigeria Limited,Austria,2/17/2023,611,21839.94,7020.58,13344203.34,Calabar,Sea
+Cassava,Greenfield Agro Exporters Nigeria Limited,Denmark,4/2/2021,541,49593.68,5788.97,26830180.88,Lagos,Sea
+Palm Oil,Agriplus Nigeria Limited,Austria,11/27/2020,641,36577.96,7500.75,23446472.36,Warri,Sea
+Plantain,Nigerian Export Promotion Council (NEPC),France,7/15/2020,250,19006.96,8307.68,4751740,Port Harcourt,Sea
+Plantain,Nigeria Agro Export Company,Austria,12/23/2022,354,29803.5,8893.66,10550439,Warri,Sea
+Rubber,Prime Agro Exports Nigeria Limited,Belgium,7/25/2022,304,35413.74,2594.73,10765776.96,Lagos,Sea
+Plantain,Nigeria Agro Export Company,Italy,3/2/2020,121,49472.48,2772.91,5986170.08,Calabar,Sea
+Plantain,Nigeria Agro Export Company,Austria,1/10/2022,609,26243.24,2186.16,15982133.16,Port Harcourt,Sea
+Ginger,Agro Export Nigeria Ltd,Switzerland,3/5/2020,303,16552.77,2426.7,5015489.31,Lagos,Sea
+Cocoa,Farmgate Nigeria Limited,Netherlands,5/26/2022,651,23667.26,6606.14,15407386.26,Lagos,Sea
+Rubber,Farmgate Nigeria Limited,Italy,10/20/2020,860,47901.59,9626.54,41195367.4,Port Harcourt,Sea
+Cassava,Nigerian Export Promotion Council (NEPC),France,10/7/2020,144,19564.37,9750.77,2817269.28,Lagos,Sea
+Plantain,Nigerian Export Promotion Council (NEPC),Italy,6/19/2023,878,38183.62,5032.49,33525218.36,Lagos,Sea
+Plantain,Prime Agro Exports Nigeria Limited,Sweden,3/13/2020,910,34668.65,3347.95,31548471.5,Calabar,Sea
+Cashew,Greenfield Agro Exporters Nigeria Limited,Sweden,12/30/2023,128,13118.57,7901.12,1679176.96,Lagos,Sea
+Rubber,Greenfield Agro Exporters Nigeria Limited,Belgium,8/4/2021,424,15631.78,6918.65,6627874.72,Lagos,Sea
+Ginger,Nigerian Export Promotion Council (NEPC),Sweden,12/15/2020,824,25390.88,8773,20922085.12,Lagos,Sea
+Sesame,Greenfield Agro Exporters Nigeria Limited,France,5/29/2021,386,12324.08,8623.86,4757094.88,Lagos,Sea
+Cashew,Agro Allied Exporters Nigeria Limited,Belgium,12/22/2022,197,32460.96,3462.01,6394809.12,Lagos,Sea
+Palm Oil,Golden Farms Nigeria Limited,Italy,7/30/2022,493,39934.19,4981.33,19687555.67,Calabar,Sea
+Plantain,Farmgate Nigeria Limited,Italy,4/16/2021,337,46796.4,3985.16,15770386.8,Port Harcourt,Sea
+Cashew,Farmgate Nigeria Limited,Spain,9/1/2020,747,32440.35,7368.96,24232941.45,Lagos,Sea
+Cassava,Prime Agro Exports Nigeria Limited,Switzerland,5/10/2020,871,41177,9144.43,35865167,Lagos,Sea
+Palm Oil,Agriplus Nigeria Limited,Sweden,7/26/2020,396,29664,6786.45,11746944,Port Harcourt,Sea
+Cassava,Agro Export Nigeria Ltd,Netherlands,5/15/2023,684,19040.76,4601.97,13023879.84,Warri,Sea
+Ginger,Agro Export Nigeria Ltd,Netherlands,7/10/2023,996,17208.42,6502.15,17139586.32,Lagos,Sea
+Sesame,Agro Export Nigeria Ltd,France,11/24/2023,924,40546.5,6374.24,37464966,Calabar,Sea
+Palm Oil,Prime Agro Exports Nigeria Limited,Belgium,7/9/2022,485,25387.8,8532.36,12313083,Lagos,Sea
+Cashew,Agriplus Nigeria Limited,France,7/28/2022,985,17927.04,2110.33,17658134.4,Lagos,Sea
+Palm Oil,Farmgate Nigeria Limited,Spain,10/19/2020,395,16150.3,9981.99,6379368.5,Lagos,Sea
+Cashew,Solid Agro Nigeria Limited,Austria,6/29/2020,585,36047.54,7586.5,21087810.9,Lagos,Sea
+Palm Oil,Agro Allied Exporters Nigeria Limited,Belgium,7/6/2020,579,24022.55,4183.58,13909056.45,Port Harcourt,Sea
+Rubber,Nigerian Export Promotion Council (NEPC),Denmark,2/28/2020,712,46468.26,4600.33,33085401.12,Lagos,Sea
+Rubber,Agro Allied Exporters Nigeria Limited,Italy,5/3/2020,310,49484.99,3040.11,15340346.9,Lagos,Sea
+Cashew,Agriplus Nigeria Limited,Germany,6/18/2021,496,16337.54,7374.32,8103419.84,Port Harcourt,Sea
+Ginger,Agro Export Nigeria Ltd,Belgium,3/10/2023,699,26065.73,7877.61,18219945.27,Lagos,Sea
+Palm Oil,Solid Agro Nigeria Limited,Denmark,10/9/2020,170,20351.67,3702.17,3459783.9,Port Harcourt,Sea
+Palm Oil,Golden Farms Nigeria Limited,Spain,5/19/2022,708,45286.58,5659.91,32062898.64,Lagos,Sea
+Plantain,Greenfield Agro Exporters Nigeria Limited,Germany,4/9/2022,608,28314.4,6615.26,17215155.2,Lagos,Sea
+Rubber,Solid Agro Nigeria Limited,Austria,6/2/2023,160,17098.75,4551.93,2735800,Lagos,Sea
+Cassava,Golden Farms Nigeria Limited,Sweden,5/9/2022,301,49306.9,7022.61,14841376.9,Lagos,Sea
+Cocoa,Farmgate Nigeria Limited,Italy,6/16/2023,513,39875.46,4915.93,20456110.98,Port Harcourt,Sea
+Cassava,Agriplus Nigeria Limited,Denmark,9/1/2020,302,19878.5,8056.92,6003307,Lagos,Sea
+Rubber,Agriplus Nigeria Limited,Germany,5/25/2022,611,32507.66,5691.95,19862180.26,Warri,Sea
+Cocoa,Agro Export Nigeria Ltd,Switzerland,3/7/2021,820,15596.18,8725.66,12788867.6,Lagos,Sea
+Ginger,Golden Farms Nigeria Limited,Spain,1/13/2020,472,15687.36,2000.3,7404433.92,Calabar,Sea
+Cassava,Agro Export Nigeria Ltd,Germany,6/23/2021,601,45644.07,4474.64,27432086.07,Warri,Sea
+Ginger,Agriplus Nigeria Limited,Netherlands,6/13/2020,525,33769.46,4015.3,17728966.5,Lagos,Sea
+Cashew,Greenfield Agro Exporters Nigeria Limited,France,8/8/2021,669,18940.33,2890.92,12671080.77,Lagos,Sea
+Sesame,Nigeria Agro Export Company,Italy,5/27/2023,142,14677.15,7760.44,2084155.3,Warri,Sea
+Cashew,Nigerian Export Promotion Council (NEPC),Denmark,2/9/2023,388,43524.13,7427.72,16887362.44,Lagos,Sea
+Rubber,Farmgate Nigeria Limited,Denmark,8/11/2021,357,25681.71,5818.74,9168370.47,Lagos,Sea
+Cashew,Nigeria Agro Export Company,Sweden,7/1/2021,599,46916.93,8747.6,28103241.07,Lagos,Sea
+Sesame,Greenfield Agro Exporters Nigeria Limited,Switzerland,3/16/2020,934,19744.29,8570.41,18441166.86,Warri,Sea
+Cocoa,Agro Export Nigeria Ltd,France,8/11/2023,581,36715.88,9369.14,21331926.28,Lagos,Sea
+Palm Oil,Agro Export Nigeria Ltd,Denmark,11/29/2022,807,26045.19,3752.77,21018468.33,Lagos,Sea
+Cocoa,Greenfield Agro Exporters Nigeria Limited,Denmark,8/17/2021,573,47666.72,9323.9,27313030.56,Lagos,Sea
+Cocoa,Prime Agro Exports Nigeria Limited,Spain,12/15/2022,285,31583.71,7018.27,9001357.35,Lagos,Sea
+Plantain,Prime Agro Exports Nigeria Limited,Italy,12/12/2021,360,25745.26,6592.49,9268293.6,Lagos,Sea
+Rubber,Agro Allied Exporters Nigeria Limited,Germany,6/10/2021,795,31220.79,4664.78,24820528.05,Calabar,Sea
+Sesame,Agriplus Nigeria Limited,Sweden,4/30/2023,329,41907.39,3974.45,13787531.31,Port Harcourt,Sea
+Cashew,Nigerian Export Promotion Council (NEPC),France,11/9/2020,519,33727.94,6857.59,17504800.86,Lagos,Sea
+Sesame,Greenfield Agro Exporters Nigeria Limited,Netherlands,5/3/2021,811,36623.16,8224.9,29701382.76,Lagos,Sea
+Sesame,Agro Export Nigeria Ltd,Italy,8/25/2022,497,36446.19,6203.23,18113756.43,Warri,Sea
+Ginger,Agriplus Nigeria Limited,Denmark,10/4/2022,427,18212.38,3741.87,7776686.26,Lagos,Sea
+Palm Oil,Agriplus Nigeria Limited,Netherlands,5/28/2021,375,47026.19,3721.51,17634821.25,Warri,Sea
+Plantain,Agro Allied Exporters Nigeria Limited,Germany,5/25/2023,132,16159.22,8575.33,2133017.04,Lagos,Sea
+Ginger,Nigerian Export Promotion Council (NEPC),Denmark,4/23/2020,525,45333.56,8558.62,23800119,Lagos,Sea
+Cocoa,Golden Farms Nigeria Limited,Italy,7/14/2020,360,26607.04,3144.34,9578534.4,Warri,Sea
+Plantain,Nigerian Export Promotion Council (NEPC),Denmark,10/13/2023,104,40095.35,5633.91,4169916.4,Lagos,Sea
+Cassava,Nigerian Export Promotion Council (NEPC),Spain,11/28/2023,991,31527.16,3766.01,31243415.56,Calabar,Sea
+Cashew,Farmgate Nigeria Limited,Belgium,2/7/2023,687,31309.13,5015.01,21509372.31,Lagos,Sea
+Cocoa,Solid Agro Nigeria Limited,Netherlands,2/5/2023,813,17261.98,4878.03,14033989.74,Lagos,Sea
+Rubber,Solid Agro Nigeria Limited,Sweden,1/25/2023,709,23947.5,6158.33,16978777.5,Calabar,Sea
+Rubber,Farmgate Nigeria Limited,Switzerland,11/4/2021,173,48027.01,4082.66,8308672.73,Warri,Sea
+Cashew,Farmgate Nigeria Limited,Austria,6/21/2023,374,37904.8,8329.34,14176395.2,Calabar,Sea
+Sesame,Agro Export Nigeria Ltd,Sweden,4/8/2021,378,12485.68,9250.08,4719587.04,Calabar,Sea
+Plantain,Agro Allied Exporters Nigeria Limited,France,4/13/2020,883,31735.91,8581.08,28022808.53,Warri,Sea
+Cashew,Agriplus Nigeria Limited,Austria,11/6/2021,491,42937.24,7776.41,21082184.84,Lagos,Sea
+Ginger,Agro Export Nigeria Ltd,Netherlands,4/24/2022,276,47090.73,7019.4,12997041.48,Lagos,Sea
+Plantain,Solid Agro Nigeria Limited,Germany,9/13/2023,192,34074.97,8717.55,6542394.24,Lagos,Sea
+Cocoa,Nigerian Export Promotion Council (NEPC),France,3/5/2022,371,36210.54,3101.99,13434110.34,Calabar,Sea
+Cocoa,Greenfield Agro Exporters Nigeria Limited,Italy,1/16/2020,207,14501.74,4713.01,3001860.18,Lagos,Sea
+Cassava,Golden Farms Nigeria Limited,Denmark,7/25/2020,765,38984.96,8638.35,29823494.4,Warri,Sea
+Cocoa,Greenfield Agro Exporters Nigeria Limited,France,3/19/2021,673,49924.06,9726.79,33598892.38,Lagos,Sea
+Cassava,Golden Farms Nigeria Limited,Austria,2/6/2021,884,34327.58,7035.55,30345580.72,Lagos,Sea
+Cocoa,Nigerian Export Promotion Council (NEPC),Belgium,4/24/2022,951,49548.71,5274.5,47120823.21,Lagos,Sea
+Plantain,Prime Agro Exports Nigeria Limited,Denmark,12/19/2020,274,46080.72,5147.67,12626117.28,Warri,Sea
+Palm Oil,Prime Agro Exports Nigeria Limited,Sweden,3/21/2021,397,22969.04,2260.45,9118708.88,Lagos,Sea
+Rubber,Prime Agro Exports Nigeria Limited,Austria,12/10/2020,615,28067.85,6284.55,17261727.75,Port Harcourt,Sea
+Cassava,Agro Allied Exporters Nigeria Limited,Denmark,10/24/2023,920,44165.77,4422.35,40632508.4,Lagos,Sea
+Plantain,Agro Allied Exporters Nigeria Limited,Austria,11/8/2020,161,22984.27,7018.74,3700467.47,Lagos,Sea
+Ginger,Agro Export Nigeria Ltd,Switzerland,11/5/2021,618,12028.51,9967.48,7433619.18,Calabar,Sea
+Palm Oil,Agriplus Nigeria Limited,Switzerland,4/4/2023,109,46963.79,2316.44,5119053.11,Port Harcourt,Sea
+Cocoa,Prime Agro Exports Nigeria Limited,Switzerland,11/20/2023,372,43946.38,6638.27,16348053.36,Lagos,Sea
+Plantain,Greenfield Agro Exporters Nigeria Limited,Denmark,5/25/2023,662,28089.29,8576.5,18595109.98,Warri,Sea
+Plantain,Nigeria Agro Export Company,Denmark,2/4/2022,253,13931.93,2641.17,3524778.29,Warri,Sea
+Palm Oil,Nigeria Agro Export Company,Germany,12/5/2021,568,37168.16,8052.61,21111514.88,Lagos,Sea
+Palm Oil,Nigerian Export Promotion Council (NEPC),Switzerland,4/10/2023,336,35609.27,7905.08,11964714.72,Port Harcourt,Sea
+Cashew,Farmgate Nigeria Limited,Spain,1/19/2022,720,20018.86,3870.9,14413579.2,Lagos,Sea
+Cassava,Farmgate Nigeria Limited,Austria,4/17/2020,192,38775.73,5076.82,7444940.16,Lagos,Sea
+Cashew,Farmgate Nigeria Limited,Spain,9/3/2020,729,43688.56,7472,31848960.24,Port Harcourt,Sea
+Sesame,Solid Agro Nigeria Limited,Austria,11/10/2021,490,30620.6,8193.51,15004094,Calabar,Sea
+Plantain,Agriplus Nigeria Limited,Austria,8/5/2021,455,42779.72,6985.57,19464772.6,Lagos,Sea
+Sesame,Nigeria Agro Export Company,Netherlands,9/5/2020,613,43133.82,8333.2,26441031.66,Lagos,Sea
+Rubber,Farmgate Nigeria Limited,Denmark,4/6/2021,807,38087.66,6847.72,30736741.62,Lagos,Sea
+Cassava,Prime Agro Exports Nigeria Limited,France,10/1/2022,259,12895.17,8669.42,3339849.03,Port Harcourt,Sea
+Cashew,Agriplus Nigeria Limited,Italy,4/8/2022,389,22294.64,3359.32,8672614.96,Calabar,Sea
+Rubber,Agro Export Nigeria Ltd,Sweden,6/25/2021,821,27842.04,3404.09,22858314.84,Lagos,Sea
+Ginger,Nigerian Export Promotion Council (NEPC),Denmark,12/25/2021,965,27453.95,3730.14,26493061.75,Warri,Sea
+Sesame,Greenfield Agro Exporters Nigeria Limited,Germany,12/5/2021,962,12987.93,6995.2,12494388.66,Lagos,Sea
+Rubber,Agriplus Nigeria Limited,Belgium,3/15/2022,661,44200.43,6749.68,29216484.23,Calabar,Sea
+Cocoa,Agriplus Nigeria Limited,Netherlands,2/7/2022,113,47220.35,6292.5,5335899.55,Lagos,Sea
+Palm Oil,Golden Farms Nigeria Limited,Italy,8/1/2023,459,46065.87,9128.74,21144234.33,Lagos,Sea
+Cocoa,Nigeria Agro Export Company,Spain,10/25/2021,978,42445.04,4024.2,41511249.12,Lagos,Sea
+Palm Oil,Greenfield Agro Exporters Nigeria Limited,Austria,9/4/2020,258,38709.41,6434.73,9987027.78,Lagos,Sea
+Cassava,Solid Agro Nigeria Limited,Sweden,9/20/2021,194,13561.52,9366.61,2630934.88,Calabar,Sea
+Cocoa,Nigerian Export Promotion Council (NEPC),Belgium,7/2/2021,648,32276.01,3180.07,20914854.48,Lagos,Sea
+Cocoa,Prime Agro Exports Nigeria Limited,Netherlands,6/21/2023,212,18804.84,4332.02,3986626.08,Lagos,Sea
+Palm Oil,Nigeria Agro Export Company,Netherlands,1/8/2021,283,18829.44,3188.06,5328731.52,Lagos,Sea
+Palm Oil,Agro Export Nigeria Ltd,Italy,11/16/2022,565,39969.3,7847.11,22582654.5,Lagos,Sea
+Sesame,Nigeria Agro Export Company,Austria,1/19/2020,422,19028.66,9601.94,8030094.52,Lagos,Sea
+Cocoa,Prime Agro Exports Nigeria Limited,Spain,6/13/2022,980,36784.33,3862.81,36048643.4,Lagos,Sea
+Palm Oil,Agro Allied Exporters Nigeria Limited,Denmark,7/24/2023,486,31281.06,3986.65,15202595.16,Lagos,Sea
+Cocoa,Golden Farms Nigeria Limited,Sweden,7/16/2022,930,10155.64,7680.1,9444745.2,Lagos,Sea
+Palm Oil,Agriplus Nigeria Limited,Denmark,2/24/2021,517,35729.89,7932.64,18472353.13,Lagos,Sea
+Plantain,Agro Export Nigeria Ltd,Italy,2/22/2023,828,33820.94,4963.47,28003738.32,Lagos,Sea
+Palm Oil,Golden Farms Nigeria Limited,France,11/14/2021,323,17650.49,7102.23,5701108.27,Lagos,Sea
+Plantain,Nigeria Agro Export Company,Spain,7/7/2023,649,20845.14,2479.19,13528495.86,Port Harcourt,Sea
+Ginger,Agriplus Nigeria Limited,Austria,11/24/2021,604,10944.17,5479.31,6610278.68,Lagos,Sea
+Cashew,Prime Agro Exports Nigeria Limited,France,1/5/2022,749,28798.52,6193.18,21570091.48,Lagos,Sea
+Cocoa,Nigerian Export Promotion Council (NEPC),Spain,12/24/2020,989,24274.45,7019.72,24007431.05,Lagos,Sea
+Palm Oil,Greenfield Agro Exporters Nigeria Limited,Denmark,6/5/2023,474,30841.13,4757.91,14618695.62,Warri,Sea
+Cassava,Nigeria Agro Export Company,Germany,8/25/2022,204,17510.17,9636.04,3572074.68,Port Harcourt,Sea
+Sesame,Greenfield Agro Exporters Nigeria Limited,Switzerland,11/20/2022,622,11709.51,2043.12,7283315.22,Calabar,Sea
+Ginger,Agro Allied Exporters Nigeria Limited,Switzerland,12/4/2023,378,12746.62,6086.46,4818222.36,Lagos,Sea
+Plantain,Nigeria Agro Export Company,France,3/19/2021,516,48437.82,7508.61,24993915.12,Warri,Sea
+Plantain,Nigerian Export Promotion Council (NEPC),Italy,5/18/2023,893,32511.33,6398.44,29032617.69,Lagos,Sea
+Sesame,Farmgate Nigeria Limited,Austria,10/25/2022,431,30944.44,4854.76,13337053.64,Port Harcourt,Sea
+Cashew,Prime Agro Exports Nigeria Limited,Austria,10/4/2021,963,16009.91,7849.5,15417543.33,Warri,Sea
+Palm Oil,Farmgate Nigeria Limited,Italy,8/20/2023,597,41654.95,3911.88,24868005.15,Lagos,Sea
+Cocoa,Agriplus Nigeria Limited,Netherlands,9/18/2022,512,40616.94,8997.44,20795873.28,Lagos,Sea
+Sesame,Agro Allied Exporters Nigeria Limited,Spain,3/25/2023,256,17418.61,4900.83,4459164.16,Calabar,Sea
+Sesame,Agro Allied Exporters Nigeria Limited,Netherlands,7/19/2020,433,23950.53,9015.97,10370579.49,Lagos,Sea
+Plantain,Golden Farms Nigeria Limited,Belgium,10/25/2021,957,37340.11,8532.38,35734485.27,Lagos,Sea
+Plantain,Agriplus Nigeria Limited,Spain,2/10/2023,226,12314.65,3962.41,2783110.9,Lagos,Sea
+Palm Oil,Golden Farms Nigeria Limited,Denmark,11/29/2022,519,10348.61,4190.31,5370928.59,Lagos,Sea
+Palm Oil,Farmgate Nigeria Limited,Italy,3/16/2022,922,41854.17,4970.73,38589544.74,Lagos,Sea
+Palm Oil,Nigeria Agro Export Company,Denmark,2/19/2022,508,31225.6,8159.69,15862604.8,Warri,Sea
+Cocoa,Golden Farms Nigeria Limited,France,11/8/2021,385,42207.48,2035.1,16249879.8,Lagos,Sea
+Palm Oil,Greenfield Agro Exporters Nigeria Limited,Austria,3/29/2021,586,24919.56,9611.18,14602862.16,Warri,Sea
+Cocoa,Agro Allied Exporters Nigeria Limited,Sweden,12/10/2022,270,14740.11,4400.06,3979829.7,Lagos,Sea
+Sesame,Golden Farms Nigeria Limited,Denmark,10/22/2021,810,29162.35,8685.33,23621503.5,Lagos,Sea
+Sesame,Golden Farms Nigeria Limited,Switzerland,6/13/2021,320,18171.76,8433.08,5814963.2,Warri,Sea
+Cocoa,Prime Agro Exports Nigeria Limited,France,11/4/2021,871,44322.34,4441.17,38604758.14,Lagos,Sea
+Plantain,Solid Agro Nigeria Limited,Austria,12/19/2023,172,44869.36,9892.3,7717529.92,Port Harcourt,Sea
+Cashew,Agro Allied Exporters Nigeria Limited,Spain,3/1/2021,692,20019.73,4532.37,13853653.16,Lagos,Sea
+Cassava,Farmgate Nigeria Limited,Switzerland,7/26/2022,370,11067.38,3708.85,4094930.6,Port Harcourt,Sea
+Cocoa,Nigerian Export Promotion Council (NEPC),Spain,12/23/2023,354,16810.17,7303.36,5950800.18,Port Harcourt,Sea
+Sesame,Nigeria Agro Export Company,Belgium,4/26/2021,769,48785.86,9075.51,37516326.34,Lagos,Sea
+Ginger,Nigerian Export Promotion Council (NEPC),Belgium,6/2/2020,732,11168.28,6791.68,8175180.96,Warri,Sea
+Sesame,Greenfield Agro Exporters Nigeria Limited,Sweden,3/31/2020,507,31022.3,9376.5,15728306.1,Lagos,Sea
+Rubber,Farmgate Nigeria Limited,France,5/6/2022,727,38141.67,2962.13,27728994.09,Lagos,Sea
+Plantain,Prime Agro Exports Nigeria Limited,Germany,8/25/2020,141,46391.24,5976.25,6541164.84,Port Harcourt,Sea
+Cashew,Golden Farms Nigeria Limited,Switzerland,12/7/2020,316,35104.26,2739.19,11092946.16,Lagos,Sea
+Palm Oil,Agriplus Nigeria Limited,Austria,2/15/2020,448,22088.53,2968.57,9895661.44,Calabar,Sea
+Cassava,Nigerian Export Promotion Council (NEPC),France,12/16/2022,786,16810.37,2778.06,13212950.82,Calabar,Sea
+Cashew,Nigeria Agro Export Company,Germany,6/28/2020,825,40168.05,4338.22,33138641.25,Port Harcourt,Sea
+Rubber,Agro Allied Exporters Nigeria Limited,Spain,3/21/2021,471,46139.69,4274.55,21731793.99,Lagos,Sea
+Palm Oil,Nigeria Agro Export Company,Sweden,7/4/2023,354,31027.21,9520.25,10983632.34,Warri,Sea
+Rubber,Nigerian Export Promotion Council (NEPC),Austria,10/8/2020,342,32818.79,3272.06,11224026.18,Warri,Sea
+Palm Oil,Nigerian Export Promotion Council (NEPC),Denmark,11/1/2023,869,25911.15,6977.8,22516789.35,Calabar,Sea
+Rubber,Nigerian Export Promotion Council (NEPC),Sweden,9/1/2020,670,20355.66,7635,13638292.2,Lagos,Sea
+Palm Oil,Greenfield Agro Exporters Nigeria Limited,Germany,8/26/2023,606,13144.69,5052.79,7965682.14,Lagos,Sea
+Sesame,Agro Allied Exporters Nigeria Limited,Sweden,3/5/2021,860,39176.4,7591.77,33691704,Warri,Sea
+Palm Oil,Agro Allied Exporters Nigeria Limited,Denmark,8/19/2021,474,18544.44,5802.97,8790064.56,Lagos,Sea
+Cocoa,Greenfield Agro Exporters Nigeria Limited,Sweden,10/14/2022,604,37692.51,5514.53,22766276.04,Port Harcourt,Sea
+Cocoa,Greenfield Agro Exporters Nigeria Limited,Austria,12/16/2020,579,40723.75,7020.3,23579051.25,Calabar,Sea
+Cocoa,Agriplus Nigeria Limited,Netherlands,4/5/2020,121,39676.69,4143.19,4800879.49,Lagos,Sea
+Palm Oil,Nigeria Agro Export Company,Belgium,10/24/2023,420,28193.75,6419.32,11841375,Warri,Sea
+Cassava,Farmgate Nigeria Limited,Italy,10/15/2021,987,42840.93,7044.67,42283997.91,Lagos,Sea
+Plantain,Agro Allied Exporters Nigeria Limited,Italy,9/12/2022,249,28428.84,5844.67,7078781.16,Lagos,Sea
+Sesame,Nigeria Agro Export Company,Sweden,1/25/2022,905,13158.97,3692.93,11908867.85,Lagos,Sea
+Cocoa,Farmgate Nigeria Limited,Germany,8/18/2022,583,31350.91,7272.46,18277580.53,Lagos,Sea
+Plantain,Agro Export Nigeria Ltd,Italy,10/31/2021,171,33855.64,2088.86,5789314.44,Lagos,Sea
+Ginger,Farmgate Nigeria Limited,Netherlands,6/23/2021,414,26446.32,9849.45,10948776.48,Warri,Sea
+Sesame,Greenfield Agro Exporters Nigeria Limited,Netherlands,9/7/2023,940,31473.12,6282.47,29584732.8,Lagos,Sea
+Palm Oil,Agro Export Nigeria Ltd,Austria,4/3/2020,859,20798.68,9677.49,17866066.12,Port Harcourt,Sea
+Cashew,Solid Agro Nigeria Limited,Austria,3/26/2022,606,27024.3,3236.49,16376725.8,Lagos,Sea
+Rubber,Agro Export Nigeria Ltd,Italy,11/16/2020,915,42823.71,9917.77,39183694.65,Lagos,Sea
+Sesame,Agro Allied Exporters Nigeria Limited,Belgium,3/18/2023,588,36758.76,4729.76,21614150.88,Lagos,Sea
+Cocoa,Nigeria Agro Export Company,Austria,3/7/2022,305,21673.21,7611.27,6610329.05,Lagos,Sea
+Palm Oil,Nigeria Agro Export Company,Denmark,5/10/2021,215,17273.35,8601.77,3713770.25,Lagos,Sea
+Cassava,Farmgate Nigeria Limited,Spain,11/28/2023,949,20213.71,6290.74,19182810.79,Lagos,Sea
+Rubber,Agro Allied Exporters Nigeria Limited,France,3/10/2022,309,17372.98,4275.1,5368250.82,Lagos,Sea
+Rubber,Farmgate Nigeria Limited,Austria,10/6/2022,647,49738,9900.98,32180486,Lagos,Sea
+Cocoa,Nigeria Agro Export Company,Sweden,2/21/2023,938,29055.81,3557.94,27254349.78,Calabar,Sea
+Sesame,Golden Farms Nigeria Limited,Netherlands,6/19/2022,669,27099.76,9279.52,18129739.44,Warri,Sea
+Ginger,Golden Farms Nigeria Limited,Netherlands,9/7/2023,511,25221.34,4876.26,12888104.74,Lagos,Sea
+Palm Oil,Farmgate Nigeria Limited,France,1/11/2020,586,11765.54,6000.81,6894606.44,Lagos,Sea
+Rubber,Nigerian Export Promotion Council (NEPC),France,2/18/2021,439,40861.04,6133.39,17937996.56,Calabar,Sea
+Ginger,Prime Agro Exports Nigeria Limited,Switzerland,4/19/2021,763,42458.7,6325.82,32395988.1,Calabar,Sea
+Rubber,Agro Allied Exporters Nigeria Limited,Denmark,3/31/2021,177,36589.22,3427.72,6476291.94,Lagos,Sea
+Rubber,Solid Agro Nigeria Limited,Sweden,10/3/2023,531,32237.75,7713.03,17118245.25,Port Harcourt,Sea
+Sesame,Nigeria Agro Export Company,France,9/24/2020,402,14516.01,7997.27,5835436.02,Warri,Sea
+Cocoa,Nigerian Export Promotion Council (NEPC),Germany,6/30/2021,741,29609.45,7089.59,21940602.45,Port Harcourt,Sea
+Palm Oil,Nigeria Agro Export Company,Denmark,11/2/2020,469,28403.99,4747.66,13321471.31,Port Harcourt,Sea
+Palm Oil,Prime Agro Exports Nigeria Limited,Italy,8/3/2022,796,49695.31,6588.39,39557466.76,Warri,Sea
+Cocoa,Nigeria Agro Export Company,Sweden,12/7/2020,464,17947.18,4171.95,8327491.52,Lagos,Sea
+Sesame,Agro Export Nigeria Ltd,Netherlands,12/23/2021,228,41382.33,6303.59,9435171.24,Lagos,Sea
+Rubber,Nigerian Export Promotion Council (NEPC),France,3/20/2021,262,13664.69,7725.31,3580148.78,Warri,Sea
+Cashew,Agro Allied Exporters Nigeria Limited,Sweden,12/29/2023,768,39606.64,7529.98,30417899.52,Lagos,Sea
+Rubber,Solid Agro Nigeria Limited,Austria,1/7/2023,433,45138.76,8830.96,19545083.08,Calabar,Sea
+Cocoa,Nigerian Export Promotion Council (NEPC),Austria,12/14/2021,605,32275.27,4331.41,19526538.35,Lagos,Sea
+Plantain,Greenfield Agro Exporters Nigeria Limited,France,11/22/2021,340,32039.53,4656.61,10893440.2,Port Harcourt,Sea
+Cassava,Solid Agro Nigeria Limited,Denmark,6/1/2021,501,39715.39,6170.93,19897410.39,Calabar,Sea
+Ginger,Nigerian Export Promotion Council (NEPC),Spain,6/29/2022,105,47676.69,6392.49,5006052.45,Lagos,Sea
+Sesame,Prime Agro Exports Nigeria Limited,Austria,12/4/2021,220,18365.32,9655.52,4040370.4,Calabar,Sea
+Cassava,Agriplus Nigeria Limited,Denmark,2/1/2022,516,35244.87,6455.99,18186352.92,Lagos,Sea
+Cashew,Farmgate Nigeria Limited,France,1/11/2020,204,22765.81,5848.05,4644225.24,Lagos,Sea
+Cashew,Golden Farms Nigeria Limited,Spain,2/12/2021,359,19044.29,6879.43,6836900.11,Lagos,Sea
+Cashew,Nigeria Agro Export Company,Austria,11/24/2022,509,37586.95,3011.25,19131757.55,Lagos,Sea
+Plantain,Nigeria Agro Export Company,Switzerland,12/8/2023,893,39070.74,3989.22,34890170.82,Lagos,Sea
+Rubber,Farmgate Nigeria Limited,Austria,10/13/2021,210,16164.04,5948.16,3394448.4,Lagos,Sea
+Palm Oil,Prime Agro Exports Nigeria Limited,France,12/13/2020,906,42689.17,3042.07,38676388.02,Lagos,Sea
+Rubber,Farmgate Nigeria Limited,Denmark,6/26/2022,911,31182.01,7840.19,28406811.11,Warri,Sea
+Cocoa,Prime Agro Exports Nigeria Limited,France,12/9/2023,800,44815.63,8719.48,35852504,Warri,Sea
+Palm Oil,Greenfield Agro Exporters Nigeria Limited,France,7/31/2023,662,29217.41,4929.24,19341925.42,Warri,Sea
+Cashew,Prime Agro Exports Nigeria Limited,Belgium,4/14/2022,969,18970.62,4948.69,18382530.78,Lagos,Sea
+Ginger,Nigeria Agro Export Company,Sweden,4/8/2022,315,30068.36,5296.72,9471533.4,Lagos,Sea
+Plantain,Nigeria Agro Export Company,Switzerland,6/24/2022,708,30535.43,9607.32,21619084.44,Port Harcourt,Sea
+Cashew,Agriplus Nigeria Limited,Italy,9/22/2023,287,16862.17,4233.25,4839442.79,Port Harcourt,Sea
+Ginger,Agriplus Nigeria Limited,Netherlands,1/27/2022,563,41130.94,6706.05,23156719.22,Lagos,Sea
+Cocoa,Agro Allied Exporters Nigeria Limited,Germany,2/12/2022,778,24299.4,7503.95,18904933.2,Lagos,Sea
+Palm Oil,Agro Allied Exporters Nigeria Limited,Switzerland,1/5/2020,289,42097.15,6008.62,12166076.35,Lagos,Sea
+Sesame,Prime Agro Exports Nigeria Limited,Netherlands,8/8/2023,272,14549.25,7569.65,3957396,Port Harcourt,Sea
+Cassava,Nigeria Agro Export Company,Germany,7/2/2020,690,32888.27,8503.97,22692906.3,Lagos,Sea
+Cocoa,Solid Agro Nigeria Limited,France,8/10/2022,248,47005.31,9451.99,11657316.88,Lagos,Sea
+Palm Oil,Agro Export Nigeria Ltd,France,12/15/2023,733,33421.87,2554.29,24498230.71,Port Harcourt,Sea
+Sesame,Agro Export Nigeria Ltd,Belgium,12/22/2021,291,46984.32,3639.36,13672437.12,Lagos,Sea
+Ginger,Nigerian Export Promotion Council (NEPC),Austria,12/2/2020,295,37960.85,4804.02,11198450.75,Warri,Sea
+Plantain,Nigeria Agro Export Company,Denmark,11/22/2023,507,38930.96,9986.2,19737996.72,Warri,Sea
+Palm Oil,Farmgate Nigeria Limited,Switzerland,6/9/2021,666,16418.88,5763.85,10934974.08,Lagos,Sea
+Rubber,Greenfield Agro Exporters Nigeria Limited,Netherlands,1/19/2020,924,12339.82,6441.71,11401993.68,Calabar,Sea
+Ginger,Agro Allied Exporters Nigeria Limited,Italy,11/13/2020,419,11329.85,3545.89,4747207.15,Lagos,Sea
+Palm Oil,Nigerian Export Promotion Council (NEPC),Spain,3/3/2023,913,30290.13,9751.19,27654888.69,Lagos,Sea
+Ginger,Agriplus Nigeria Limited,Belgium,10/6/2022,710,30593.52,8558.98,21721399.2,Lagos,Sea
+Cassava,Agro Allied Exporters Nigeria Limited,Germany,7/27/2022,142,28251.37,7796.85,4011694.54,Lagos,Sea
+Rubber,Golden Farms Nigeria Limited,Netherlands,10/24/2022,291,24012.91,8318.99,6987756.81,Lagos,Sea
+Cocoa,Agro Allied Exporters Nigeria Limited,Switzerland,11/16/2023,410,33864.48,7060.48,13884436.8,Lagos,Sea
+Cocoa,Nigerian Export Promotion Council (NEPC),Sweden,3/30/2020,941,27078.72,4676.04,25481075.52,Lagos,Sea
+Cassava,Nigeria Agro Export Company,Denmark,11/8/2022,323,41562.66,7492.8,13424739.18,Lagos,Sea
+Sesame,Solid Agro Nigeria Limited,Italy,11/25/2022,662,33103.72,8786.6,21914662.64,Port Harcourt,Sea
+Ginger,Farmgate Nigeria Limited,Netherlands,5/10/2021,568,37507.87,4346.03,21304470.16,Lagos,Sea
+Plantain,Solid Agro Nigeria Limited,Netherlands,5/27/2021,794,38459.71,6427.82,30537009.74,Lagos,Sea
+Sesame,Agro Allied Exporters Nigeria Limited,Germany,9/25/2020,545,36328.03,9914.95,19798776.35,Lagos,Sea
+Cassava,Agro Export Nigeria Ltd,Italy,9/10/2022,778,49985.86,8415.43,38888999.08,Warri,Sea
+Cashew,Solid Agro Nigeria Limited,Denmark,5/22/2022,930,37216.61,4076.71,34611447.3,Warri,Sea
+Palm Oil,Prime Agro Exports Nigeria Limited,Switzerland,5/4/2020,193,31525.28,7795.99,6084379.04,Warri,Sea
+Rubber,Prime Agro Exports Nigeria Limited,Belgium,11/9/2023,131,33882.16,5708.85,4438562.96,Lagos,Sea
+Cassava,Golden Farms Nigeria Limited,Spain,12/3/2023,634,24679.19,3215.36,15646606.46,Lagos,Sea
+Sesame,Farmgate Nigeria Limited,Austria,1/21/2021,377,28535.67,6210.24,10757947.59,Warri,Sea
+Plantain,Agro Allied Exporters Nigeria Limited,Switzerland,1/28/2023,761,38066.85,6557.5,28968872.85,Lagos,Sea
+Plantain,Agro Export Nigeria Ltd,Netherlands,3/30/2021,522,22143.33,3932.05,11558818.26,Warri,Sea
+Palm Oil,Solid Agro Nigeria Limited,Sweden,2/13/2021,726,24759.94,3878.78,17975716.44,Lagos,Sea
+Rubber,Golden Farms Nigeria Limited,Switzerland,5/10/2022,221,37345.15,7906.31,8253278.15,Warri,Sea
+Sesame,Nigerian Export Promotion Council (NEPC),Italy,11/17/2023,909,12986.58,5787.44,11804801.22,Lagos,Sea
+Cashew,Solid Agro Nigeria Limited,Denmark,1/17/2021,108,37249.78,4225.05,4022976.24,Port Harcourt,Sea
+Palm Oil,Nigeria Agro Export Company,Sweden,3/12/2022,421,30096.76,2841.69,12670735.96,Lagos,Sea
+Plantain,Greenfield Agro Exporters Nigeria Limited,Austria,1/8/2020,619,13079.61,2337.43,8096278.59,Lagos,Sea
+Cocoa,Golden Farms Nigeria Limited,Spain,10/23/2023,657,42148.94,5773.97,27691853.58,Calabar,Sea
+Cocoa,Golden Farms Nigeria Limited,Austria,12/6/2022,285,15478.05,4402.63,4411244.25,Calabar,Sea
+Plantain,Nigerian Export Promotion Council (NEPC),Denmark,2/9/2021,564,41667.73,8576.44,23500599.72,Lagos,Sea
+Rubber,Solid Agro Nigeria Limited,Sweden,4/28/2021,855,40697.77,3184.83,34796593.35,Lagos,Sea
+Cashew,Agriplus Nigeria Limited,Switzerland,3/17/2021,988,34090.05,6763.49,33680969.4,Lagos,Sea
+Rubber,Agro Export Nigeria Ltd,Italy,11/17/2022,430,11566.78,7435.68,4973715.4,Lagos,Sea
+Plantain,Solid Agro Nigeria Limited,Austria,3/7/2023,655,14925.52,7623.92,9776215.6,Lagos,Sea
+Sesame,Nigerian Export Promotion Council (NEPC),Denmark,12/7/2020,646,38364.15,9462.15,24783240.9,Calabar,Sea
+Sesame,Agriplus Nigeria Limited,Denmark,10/28/2023,859,43851.61,6799.28,37668532.99,Port Harcourt,Sea
+Cassava,Nigeria Agro Export Company,Switzerland,5/18/2021,347,42921.85,8708.69,14893881.95,Warri,Sea
+Ginger,Nigeria Agro Export Company,Germany,12/30/2021,823,44241.93,3183.41,36411108.39,Lagos,Sea
+Rubber,Prime Agro Exports Nigeria Limited,France,8/14/2021,217,34216.05,9912.43,7424882.85,Lagos,Sea
+Cassava,Golden Farms Nigeria Limited,Germany,6/9/2021,862,10713.54,4852.22,9235071.48,Lagos,Sea
+Palm Oil,Agro Export Nigeria Ltd,Netherlands,7/13/2022,324,21715.79,5623.25,7035915.96,Warri,Sea
+Cocoa,Farmgate Nigeria Limited,Sweden,9/26/2023,250,39171.51,5314.78,9792877.5,Port Harcourt,Sea
+Sesame,Agro Allied Exporters Nigeria Limited,Switzerland,2/6/2020,764,43203.73,8734.57,33007649.72,Warri,Sea
+Rubber,Nigeria Agro Export Company,Germany,10/14/2021,789,45177.74,7969.12,35645236.86,Lagos,Sea
+Cashew,Prime Agro Exports Nigeria Limited,Switzerland,10/5/2021,388,14002.05,7799.02,5432795.4,Lagos,Sea
+Rubber,Greenfield Agro Exporters Nigeria Limited,Denmark,4/3/2023,563,21775.76,2517.02,12259752.88,Lagos,Sea
+Cassava,Golden Farms Nigeria Limited,Austria,2/12/2021,793,45126.35,5472.16,35785195.55,Lagos,Sea
+Plantain,Golden Farms Nigeria Limited,France,12/3/2023,685,48325.91,2197.46,33103248.35,Port Harcourt,Sea
+Sesame,Nigeria Agro Export Company,Sweden,1/6/2021,649,33652.55,2030.3,21840504.95,Lagos,Sea
+Ginger,Prime Agro Exports Nigeria Limited,Switzerland,2/8/2020,459,30252.46,2958.05,13885879.14,Port Harcourt,Sea
+Ginger,Farmgate Nigeria Limited,Sweden,12/24/2023,457,16150.42,9986.08,7380741.94,Calabar,Sea
+Plantain,Agro Allied Exporters Nigeria Limited,Switzerland,8/1/2021,473,30671.94,7740.41,14507827.62,Lagos,Sea
+Rubber,Golden Farms Nigeria Limited,Italy,11/25/2022,709,25837.66,7576.26,18318900.94,Calabar,Sea
+Sesame,Golden Farms Nigeria Limited,Italy,2/21/2021,414,42114.2,5486.61,17435278.8,Lagos,Sea
+Sesame,Nigerian Export Promotion Council (NEPC),Italy,8/6/2022,476,14011.07,5099.37,6669269.32,Calabar,Sea
+Plantain,Nigeria Agro Export Company,Austria,2/7/2022,394,46216.74,4748.54,18209395.56,Lagos,Sea
+Cashew,Agriplus Nigeria Limited,Germany,9/13/2022,823,27043.87,3741.34,22257105.01,Lagos,Sea
+Rubber,Nigerian Export Promotion Council (NEPC),Spain,2/8/2020,143,16022.18,6105.63,2291171.74,Calabar,Sea
+Sesame,Solid Agro Nigeria Limited,France,1/24/2020,594,32943.76,2699.9,19568593.44,Warri,Sea
+Sesame,Greenfield Agro Exporters Nigeria Limited,Germany,12/27/2021,263,33990.48,8787.78,8939496.24,Lagos,Sea
+Rubber,Farmgate Nigeria Limited,France,12/27/2020,401,23465.06,6456.01,9409489.06,Lagos,Sea
+Cassava,Prime Agro Exports Nigeria Limited,Netherlands,3/26/2020,534,15831.82,3835.13,8454191.88,Port Harcourt,Sea
+Ginger,Greenfield Agro Exporters Nigeria Limited,Austria,11/22/2022,129,18817.41,4803.29,2427445.89,Lagos,Sea
+Cassava,Agriplus Nigeria Limited,Denmark,4/11/2023,398,14862.53,2323.59,5915286.94,Lagos,Sea
+Cassava,Nigeria Agro Export Company,Austria,9/12/2022,512,27999.61,8423.8,14335800.32,Lagos,Sea
+Ginger,Agro Export Nigeria Ltd,Austria,11/4/2022,787,35424.54,7667.6,27879112.98,Lagos,Sea
+Cassava,Solid Agro Nigeria Limited,Spain,4/26/2020,566,10637.35,3020.33,6020740.1,Calabar,Sea
+Ginger,Solid Agro Nigeria Limited,France,6/13/2023,891,35087.34,5489.92,31262819.94,Lagos,Sea
+Cassava,Prime Agro Exports Nigeria Limited,Spain,4/15/2023,627,49380.09,3564.84,30961316.43,Lagos,Sea
+Plantain,Prime Agro Exports Nigeria Limited,Belgium,9/27/2021,743,24056.22,9317.83,17873771.46,Calabar,Sea
+Cocoa,Golden Farms Nigeria Limited,Germany,6/7/2022,775,13645.3,6202.53,10575107.5,Warri,Sea
+Cocoa,Agro Allied Exporters Nigeria Limited,Spain,2/6/2022,881,26436.88,3810.84,23290891.28,Port Harcourt,Sea
+Sesame,Nigeria Agro Export Company,Austria,2/19/2020,905,42903.63,2926.81,38827785.15,Lagos,Sea
+Cassava,Greenfield Agro Exporters Nigeria Limited,Denmark,7/24/2023,841,43215.55,9448.55,36344277.55,Lagos,Sea
+Palm Oil,Solid Agro Nigeria Limited,Italy,11/20/2021,487,48839.39,6529.26,23784782.93,Calabar,Sea
+Cashew,Farmgate Nigeria Limited,France,8/8/2020,390,38419.12,7127.08,14983456.8,Lagos,Sea
+Cassava,Solid Agro Nigeria Limited,Germany,12/18/2022,409,34153.61,9814.72,13968826.49,Lagos,Sea
+Ginger,Nigerian Export Promotion Council (NEPC),Italy,11/18/2023,198,31390.01,5406.99,6215221.98,Port Harcourt,Sea
+Cassava,Solid Agro Nigeria Limited,Austria,6/4/2020,748,25682.21,9748.12,19210293.08,Lagos,Sea
+Ginger,Golden Farms Nigeria Limited,Switzerland,12/14/2023,475,12470.79,4281.38,5923625.25,Lagos,Sea
+Cassava,Solid Agro Nigeria Limited,Austria,12/20/2021,375,14459.63,7873.61,5422361.25,Lagos,Sea
+Sesame,Prime Agro Exports Nigeria Limited,Netherlands,9/1/2021,814,30126.69,4693.67,24523125.66,Calabar,Sea
+Cocoa,Solid Agro Nigeria Limited,Sweden,9/15/2023,222,28231.62,7367.68,6267419.64,Lagos,Sea
+Sesame,Prime Agro Exports Nigeria Limited,Italy,6/20/2021,190,22327.68,6223.45,4242259.2,Lagos,Sea
+Palm Oil,Nigerian Export Promotion Council (NEPC),Belgium,5/23/2023,567,35646.93,2499.84,20211809.31,Lagos,Sea
+Palm Oil,Farmgate Nigeria Limited,Sweden,8/15/2022,595,33805.15,8217.57,20114064.25,Lagos,Sea
+Cashew,Solid Agro Nigeria Limited,Belgium,9/9/2023,705,20889.94,5798.03,14727407.7,Warri,Sea
+Cassava,Solid Agro Nigeria Limited,Switzerland,8/27/2023,341,49196.09,2640.45,16775866.69,Lagos,Sea
+Sesame,Nigeria Agro Export Company,Belgium,4/25/2023,654,10417.46,5360.66,6813018.84,Lagos,Sea
+Cocoa,Agro Allied Exporters Nigeria Limited,Austria,8/23/2022,639,35392.97,6671.2,22616107.83,Warri,Sea
+Plantain,Agro Export Nigeria Ltd,France,3/1/2020,462,32503.8,8516.97,15016755.6,Lagos,Sea
+Cassava,Nigerian Export Promotion Council (NEPC),France,6/21/2020,467,13294.58,4013.08,6208568.86,Lagos,Sea
+Cocoa,Nigerian Export Promotion Council (NEPC),Switzerland,4/1/2023,902,26139.97,4595.39,23578252.94,Warri,Sea
+Cassava,Agriplus Nigeria Limited,Germany,2/13/2022,965,36870,4666.84,35579550,Warri,Sea
+Cashew,Golden Farms Nigeria Limited,Denmark,10/6/2021,344,11762.79,5039.24,4046399.76,Lagos,Sea
+Ginger,Solid Agro Nigeria Limited,Switzerland,5/15/2021,511,31655.61,8956.6,16176016.71,Lagos,Sea
+Cassava,Solid Agro Nigeria Limited,Denmark,7/26/2022,205,19635.92,4458.43,4025363.6,Port Harcourt,Sea
+Plantain,Golden Farms Nigeria Limited,Belgium,11/29/2021,522,19308.83,3240.13,10079209.26,Warri,Sea
+Plantain,Agro Allied Exporters Nigeria Limited,France,2/7/2020,292,39681.37,9990.57,11586960.04,Lagos,Sea
+Cocoa,Golden Farms Nigeria Limited,France,1/12/2022,994,38992.61,8142.85,38758654.34,Lagos,Sea
+Cashew,Greenfield Agro Exporters Nigeria Limited,Spain,12/3/2020,290,18007.19,9572.06,5222085.1,Port Harcourt,Sea
+Palm Oil,Agriplus Nigeria Limited,Denmark,1/21/2023,530,14332.67,8759.32,7596315.1,Lagos,Sea
+Cashew,Prime Agro Exports Nigeria Limited,Austria,10/24/2020,208,31322.8,7800.08,6515142.4,Lagos,Sea
+Plantain,Farmgate Nigeria Limited,Belgium,3/8/2021,797,47976.47,6541.42,38237246.59,Lagos,Sea
+Ginger,Prime Agro Exports Nigeria Limited,Austria,12/25/2020,925,13785.14,8374.84,12751254.5,Lagos,Sea
+Palm Oil,Farmgate Nigeria Limited,France,11/30/2021,809,22118.5,3485.39,17893866.5,Port Harcourt,Sea
+Sesame,Agriplus Nigeria Limited,Sweden,6/11/2022,343,28619.01,8180.16,9816320.43,Lagos,Sea
+Ginger,Greenfield Agro Exporters Nigeria Limited,Belgium,10/1/2022,556,46687.6,6872.49,25958305.6,Lagos,Sea
+Cashew,Nigeria Agro Export Company,Denmark,1/2/2022,225,27359.34,4792.7,6155851.5,Lagos,Sea
+Ginger,Golden Farms Nigeria Limited,Sweden,1/28/2021,218,18450.31,3273.85,4022167.58,Lagos,Sea
+Ginger,Agro Allied Exporters Nigeria Limited,Switzerland,5/25/2021,715,36611.18,9363.95,26176993.7,Warri,Sea
+Sesame,Solid Agro Nigeria Limited,Italy,4/22/2020,583,40492.17,5945.15,23606935.11,Port Harcourt,Sea
+Cocoa,Nigerian Export Promotion Council (NEPC),France,3/18/2021,619,35120.03,4158.59,21739298.57,Calabar,Sea
+Cashew,Nigeria Agro Export Company,Netherlands,6/11/2023,730,49937.99,9149.4,36454732.7,Warri,Sea
+Rubber,Agro Export Nigeria Ltd,Sweden,11/1/2023,952,15607.62,5086.57,14858454.24,Lagos,Sea
+Rubber,Agro Allied Exporters Nigeria Limited,Netherlands,8/6/2023,447,49544.5,6381.92,22146391.5,Lagos,Sea
+Cashew,Greenfield Agro Exporters Nigeria Limited,Germany,3/5/2023,315,42814.92,6620.22,13486699.8,Lagos,Sea
+Cassava,Nigeria Agro Export Company,Denmark,8/9/2020,504,10656.58,9979.02,5370916.32,Lagos,Sea
