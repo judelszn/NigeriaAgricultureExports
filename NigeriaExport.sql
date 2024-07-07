@@ -176,3 +176,36 @@ ORDER BY SUM(E.UnitsSold) DESC
 SELECT CORR()
 FROM NGE.ExportStage E
 ;
+
+
+-- Sales variation over time
+SELECT E.ExportMonth
+	, AVG(E.ExportValue) AS AverageSalesValuePerMonth
+	, SUM(E.UnitsSold) AS TotalUnitsSoldPerMonth
+FROM NGE.ExportStage E
+GROUP BY E.ExportMonth
+ORDER BY AVG(E.ExportValue) DESC, SUM(E.UnitsSold) DESC
+;
+
+
+-- 
+SELECT E.ExportQuarter
+	, AVG(E.ExportValue) AS AverageSalesValuePerQuarter
+	, SUM(E.UnitsSold) AS TotalUnitsSoldPerQuarter
+FROM NGE.ExportStage E
+GROUP BY E.ExportQuarter
+ORDER BY AVG(E.ExportValue) DESC, SUM(E.UnitsSold) DESC
+;
+
+
+--
+SELECT E.ExportYear
+	, AVG(E.ExportValue) AS AverageSalesValuePerYear
+	, SUM(E.UnitsSold) AS TotalUnitsSoldPerYear
+FROM NGE.ExportStage E
+GROUP BY E.ExportYear
+ORDER BY AVG(E.ExportValue) DESC, SUM(E.UnitsSold) DESC
+;
+
+
+-- Relationship between date of purchase and profit margin
