@@ -209,3 +209,6 @@ ORDER BY AVG(E.ExportValue) DESC, SUM(E.UnitsSold) DESC
 
 
 -- Relationship between date of purchase and profit margin
+SELECT *
+FROM NGE.ExportStage E
+;
