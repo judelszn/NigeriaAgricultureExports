@@ -179,6 +179,7 @@ FROM NGE.ExportStage E
 
 
 -- Sales variation over time
+-- Monthly
 SELECT E.ExportMonth
 	, AVG(E.ExportValue) AS AverageSalesValuePerMonth
 	, SUM(E.UnitsSold) AS TotalUnitsSoldPerMonth
@@ -188,7 +189,7 @@ ORDER BY AVG(E.ExportValue) DESC, SUM(E.UnitsSold) DESC
 ;
 
 
--- 
+-- Quarterly
 SELECT E.ExportQuarter
 	, AVG(E.ExportValue) AS AverageSalesValuePerQuarter
 	, SUM(E.UnitsSold) AS TotalUnitsSoldPerQuarter
@@ -198,7 +199,7 @@ ORDER BY AVG(E.ExportValue) DESC, SUM(E.UnitsSold) DESC
 ;
 
 
---
+-- Annually 
 SELECT E.ExportYear
 	, AVG(E.ExportValue) AS AverageSalesValuePerYear
 	, SUM(E.UnitsSold) AS TotalUnitsSoldPerYear
@@ -212,3 +213,6 @@ ORDER BY AVG(E.ExportValue) DESC, SUM(E.UnitsSold) DESC
 SELECT *
 FROM NGE.ExportStage E
 ;
+
+
+-- Cost of goods sold as a percentage of revenue
