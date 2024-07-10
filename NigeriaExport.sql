@@ -216,3 +216,24 @@ FROM NGE.ExportStage E
 
 
 -- Cost of goods sold as a percentage of revenue
+
+
+
+-- Destination Port with highest volume of exports
+SELECT E.DestinationPort
+	, SUM(E.UnitsSold) AS EcportsVolume
+FROM NGE.ExportStage E
+GROUP BY E.DestinationPort
+ORDER BY SUM(E.UnitsSold) DESC
+OFFSET 0 ROWS
+FETCH NEXT 1 ROWS ONLY
+;
+
+
+-- Common Transportation mode
+SELECT E.TransportationMode
+	, COUNT(*) AS TransportationModeCount
+FROM NGE.ExportStage E
+GROUP BY E.TransportationMode
+ORDER BY COUNT(*) DESC
+;
