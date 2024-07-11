@@ -237,3 +237,37 @@ FROM NGE.ExportStage E
 GROUP BY E.TransportationMode
 ORDER BY COUNT(*) DESC
 ;
+
+
+-- Rank of destination port by export value
+WITH DestinationPortDetails AS (
+	SELECT E.DestinationPort
+		, ROUND(SUM(E.ExportValue), 2) AS TotalExportValue
+	FROM NGE.ExportStage E
+	GROUP BY E.DestinationPort
+	)
+SELECT *
+	, RANK() OVER(PARTITION BY DD.TotalExportValue ORDER BY DD.TotalExportValue) AS Ranked
+FROM DestinationPortDetails DD
+;
+
+
+-- Top export product for each port
+WITH ProductsDetail AS (
+	SELECT E.ProductName
+		, E.DestinationPort
+		, COUNT(E.ProductName) AS ProductsCount
+	FROM NGE.ExportStage E
+	GROUP BY E.ProductName, E.DestinationPort
+	),
+ExportProducts AS (
+	SELECT *
+		, RANK() OVER(PARTITION BY PD.DestinationPort ORDER BY PD.ProductsCount DESC) AS Ranked
+	FROM ProductsDetail PD)
+SELECT EP.DestinationPort
+	, EP.ProductName
+	, EP.ProductsCount
+--	, EP.Ranked
+FROM ExportProducts EP
+WHERE EP.Ranked < 2
+;
