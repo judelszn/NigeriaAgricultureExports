@@ -247,7 +247,7 @@ WITH DestinationPortDetails AS (
 	GROUP BY E.DestinationPort
 	)
 SELECT *
-	, RANK() OVER(PARTITION BY DD.TotalExportValue ORDER BY DD.TotalExportValue) AS Ranked
+	, RANK() OVER(ORDER BY DD.TotalExportValue) AS Ranked
 FROM DestinationPortDetails DD
 ;
 
