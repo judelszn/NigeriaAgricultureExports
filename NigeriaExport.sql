@@ -271,3 +271,6 @@ SELECT EP.DestinationPort
 FROM ExportProducts EP
 WHERE EP.Ranked < 2
 ;
+
+
+-- Performance comparism
