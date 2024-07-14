@@ -1,4 +1,4 @@
-CREATE DATABASE Projects;
+ CREATE DATABASE Projects;
 
 USE Projects
 GO
@@ -274,3 +274,18 @@ WHERE EP.Ranked < 2
 
 
 -- Performance comparism
+-- Product performance in terms of profit margin
+SELECT E.ProductName
+	, ROUND(SUM(E.ProfitPerUnit), 2) AS TotalProfitMargin
+	, ROUND(AVG(E.ProfitPerUnit), 2) AS AverageProfitMargin
+FROM NGE.ExportStage E
+GROUP BY E.ProductName
+ORDER BY SUM(E.ProfitPerUnit) DESC
+;
+
+
+
+
+
+SELECT *
+FROM NGE.ExportStage;
