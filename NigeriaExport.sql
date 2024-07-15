@@ -284,6 +284,16 @@ ORDER BY SUM(E.ProfitPerUnit) DESC
 ;
 
 
+-- Company performance based on units sold and profit
+SELECT E.Company
+	, SUM(E.UnitsSold) AS TotalUnitsSold
+	, SUM(E.UnitsSold * E.ProfitPerUnit) AS TotalProfit
+FROM NGE.ExportStage E
+GROUP BY E.Company
+ORDER BY SUM(E.UnitsSold) DESC
+;
+
+
 
 
 
