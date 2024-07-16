@@ -173,6 +173,38 @@ ORDER BY SUM(E.UnitsSold) DESC
 
 
 -- Correlation between UnitsSold and Profit
+
+
+VAR MeanX = AVERAGE('HRDataset'[EmployeeSatisfaction])
+VAR MeanY = AVERAGE('HRDataset'[EngagementSurvey])
+VAR n = COUNTROWS('HRDataset')
+
+VAR COVAR =
+    SUMX(
+        'HRDataset',
+        ('HRDataset'[EmployeeSatisfaction] - MeanX) * ('HRDataset'[EngagementSurvey] - MeanY)
+    ) / (n - 1)
+
+VAR StdDevX = 
+    SQRT(
+        SUMX(
+            'HRDataset',
+            POWER('HRDataset'[EmployeeSatisfaction] - MeanX, 2)
+        ) / (n - 1)
+    )
+
+VAR StdDevY = 
+    SQRT(
+        SUMX(
+            'HRDataset',
+            POWER('HRDataset'[EngagementSurvey] - MeanY, 2)
+        ) / (n - 1)
+    )
+
+VAR COR = IF(StdDevX * StdDevY <> 0, COVAR / (StdDevX * StdDevY), BLANK())
+
+
+
 SELECT CORR()
 FROM NGE.ExportStage E
 ;
