@@ -173,35 +173,31 @@ ORDER BY SUM(E.UnitsSold) DESC
 
 
 -- Correlation between UnitsSold and Profit
-
-
-VAR MeanX = AVERAGE('HRDataset'[EmployeeSatisfaction])
-VAR MeanY = AVERAGE('HRDataset'[EngagementSurvey])
-VAR n = COUNTROWS('HRDataset')
-
-VAR COVAR =
-    SUMX(
-        'HRDataset',
-        ('HRDataset'[EmployeeSatisfaction] - MeanX) * ('HRDataset'[EngagementSurvey] - MeanY)
-    ) / (n - 1)
-
-VAR StdDevX = 
-    SQRT(
-        SUMX(
-            'HRDataset',
-            POWER('HRDataset'[EmployeeSatisfaction] - MeanX, 2)
-        ) / (n - 1)
-    )
-
-VAR StdDevY = 
-    SQRT(
-        SUMX(
-            'HRDataset',
-            POWER('HRDataset'[EngagementSurvey] - MeanY, 2)
-        ) / (n - 1)
-    )
-
-VAR COR = IF(StdDevX * StdDevY <> 0, COVAR / (StdDevX * StdDevY), BLANK())
+WITH Mean AS (
+	SELECT E.UnitPrice
+		, E.ProfitPerUnit
+		, AVG(E.UnitPrice) OVER() AS UnitPriceMean
+		, AVG(E.ProfitPerUnit) OVER() AS ProfitMean 
+	FROM NGE.ExportStage E
+	),
+Variance AS (
+	SELECT AVG(POWER(M.UnitPrice - M.UnitPriceMean, 2)) AS VarUnitPrice
+		, AVG(POWER(M.ProfitPerUnit - M.ProfitMean, 2)) AS VarProfit
+	FROM Mean M
+	),
+StandardDeviation AS (
+	SELECT POWER(V.VarUnitPrice, 0.5) AS UnitPriceSTD
+		, POWER(V.VarProfit, 0.5) AS ProfitSTD 
+	FROM Variance V
+	),
+Covariance AS (
+	SELECT AVG((M.UnitPrice - M.UnitPriceMean) * (M.ProfitPerUnit - M.ProfitMean)) AS CovPP
+	FROM Mean M
+	) 
+SELECT ROUND(CV.CovPP / (STD.ProfitSTD * STD.UnitPriceSTD), 3) AS CorrCoeff
+FROM Covariance CV
+CROSS JOIN StandardDeviation STD
+;
 
 
 
