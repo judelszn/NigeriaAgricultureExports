@@ -82,7 +82,6 @@ WHERE CheckDuplicate.RowNumber > 1
 ;
 
 
-
 ALTER TABLE NGE.ExportStage
 ADD ExportMonth CHAR(20)
 ; 
@@ -197,12 +196,6 @@ Covariance AS (
 SELECT ROUND(CV.CovPP / (STD.ProfitSTD * STD.UnitPriceSTD), 3) AS CorrCoeff
 FROM Covariance CV
 CROSS JOIN StandardDeviation STD
-;
-
-
-
-SELECT CORR()
-FROM NGE.ExportStage E
 ;
 
 
