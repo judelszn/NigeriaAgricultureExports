@@ -231,8 +231,10 @@ ORDER BY AVG(E.ExportValue) DESC, SUM(E.UnitsSold) DESC
 
 
 -- Relationship between date of purchase and profit margin
-SELECT *
+SELECT DATEPART(MONTH, E.ExportDate) AS PurchaseMonth
+	, SUM(E.ProfitPerUnit) AS TotalProfit
 FROM NGE.ExportStage E
+GROUP BY DATEPART(MONTH, E.ExportDate)
 ;
 
 
