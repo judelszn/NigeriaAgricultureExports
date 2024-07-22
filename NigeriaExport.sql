@@ -258,7 +258,15 @@ GROUP BY DATEPART(YEAR, E.ExportDate)
 
 
 -- Cost of goods sold as a percentage of revenue
-
+WITH ProductMoney AS (
+	SELECT E.ProductName
+		, (E.UnitsSold * E.UnitPrice) - (E.ProfitPerUnit * E.UnitsSold) AS ProductCost
+		,  (E.UnitsSold * E.UnitPrice)  AS ProductRevenue
+	FROM NGE.ExportStage E
+-- GROUP BY E.ProductName
+	)
+SELCT
+;
 
 
 -- Destination Port with highest volume of exports
