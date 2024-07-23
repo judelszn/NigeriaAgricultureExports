@@ -264,6 +264,9 @@ WITH ProductMoney AS (
 		,  (E.UnitsSold * E.UnitPrice)  AS ProductRevenue
 	FROM NGE.ExportStage E
 -- GROUP BY E.ProductName
+	),
+CostPercent AS (
+
 	)
 SELCT
 ;
