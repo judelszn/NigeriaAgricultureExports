@@ -263,12 +263,17 @@ WITH ProductMoney AS (
 		, (E.UnitsSold * E.UnitPrice) - (E.ProfitPerUnit * E.UnitsSold) AS ProductCost
 		,  (E.UnitsSold * E.UnitPrice)  AS ProductRevenue
 	FROM NGE.ExportStage E
--- GROUP BY E.ProductName
+    -- GROUP BY E.ProductName
 	),
 CostPercent AS (
-
+	SELECT PM.ProductName
+		, (PM.ProductCost * 100) / PM.ProductRevenue AS CostPercentofRevenue
+	FROM ProductMoney PM
 	)
-SELCT
+SELECT CP.ProductName
+	, SUM(CP.CostPercentofRevenue) AS TotalCostPercent
+FROM CostPercent CP
+GROUP BY CP.ProductName
 ;
 
 
