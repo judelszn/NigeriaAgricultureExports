@@ -39,36 +39,43 @@ FROM INFORMATION_SCHEMA.COLUMNS
 WHERE TABLE_NAME = 'ExportStage';
 
 
+-- Cardinality of columns
+-- ProductName
 SELECT DISTINCT ES.ProductName
 FROM NGE.ExportStage ES
 ORDER BY 1;
 
+-- Company
 SELECT DISTINCT ES.Company
 FROM NGE.ExportStage ES
 ORDER BY 1;
 
+-- ExportCompany
 SELECT DISTINCT ES.ExportCountry
 FROM NGE.ExportStage ES
 ORDER BY 1;
 
-
+-- DestinationPort
 SELECT DISTINCT ES.DestinationPort
 FROM NGE.ExportStage ES
 ORDER BY 1;
 
-
+-- TransportionMode
 SELECT DISTINCT ES.TransportationMode
 FROM NGE.ExportStage ES
 ORDER BY 1;
 
 
+-- Check for duplicates
+-- Number rows 
 SELECT *
 	, ROW_NUMBER() OVER(
 		PARTITION BY E.ProductName, E.Company, E.ExportCountry, E.ExportDate, E.UnitsSold, E.UnitPrice, E.ProfitPerUnit, E.ExportValue, E.DestinationPort, E.TransportationMode
 		ORDER BY E.ProductName) AS RowNumber
 FROM NGE.ExportStage E;
 
-
+-- Actusl check
+-- No duplicates
 WITH CheckDuplicate AS (
 	SELECT *
 	 , ROW_NUMBER() OVER(
@@ -239,14 +246,12 @@ GROUP BY DATEPART(WEEKDAY, E.ExportDate)
 ;
 
 
-
 -- By month
 SELECT DATEPART(MONTH, E.ExportDate) AS PurchaseMonth
 	, SUM(E.ProfitPerUnit) AS TotalProfit
 FROM NGE.ExportStage E
 GROUP BY DATEPART(MONTH, E.ExportDate)
 ;
-
 
 
 -- By year
