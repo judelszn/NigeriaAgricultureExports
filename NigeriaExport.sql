@@ -1,27 +1,35 @@
+ -- Create a database 
  CREATE DATABASE Projects;
 
+ -- Initialise the database
 USE Projects
 GO
 
+-- Create a schema
 CREATE SCHEMA NGE;
 GO
 
-
+-- Data imported from csv file by MSSMS wizard
+-- Check table
 SELECT *
 FROM.NGE.Exports;
 
+-- Make a copy of table structure
 SELECT *
 INTO NGE.ExportStage
 FROM NGE.Exports
 WHERE 1 = 0;
 
+-- Check the new table
 SELECT *
 FROM NGE.ExportStage;
 
+-- Input data into new table
 INSERT NGE.ExportStage
 SELECT *
 FROM NGE.Exports;
 
+-- Rename columns of table
 EXEC sp_rename 'NGE.ExportStage.Product_Name', 'ProductName'
 EXEC sp_rename 'NGE.ExportStage.Export_Country', 'ExportCountry'
 EXEC sp_rename 'NGE.ExportStage.Date', 'ExportDate'
@@ -33,7 +41,7 @@ EXEC sp_rename 'NGE.ExportStage.Destination_Port', 'DestinationPort'
 EXEC sp_rename 'NGE.ExportStage.Transportation_Mode', 'TransportationMode'
 
 
-
+-- Check details of table
 SELECT *
 FROM INFORMATION_SCHEMA.COLUMNS
 WHERE TABLE_NAME = 'ExportStage';
@@ -355,7 +363,6 @@ FROM NGE.ExportStage E
 GROUP BY E.Company
 ORDER BY SUM(E.UnitsSold) DESC
 ;
-
 
 
 
