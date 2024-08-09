@@ -96,7 +96,7 @@ FROM CheckDuplicate
 WHERE CheckDuplicate.RowNumber > 1
 ;
 
-
+-- Add new column
 ALTER TABLE NGE.ExportStage
 ADD ExportMonth CHAR(20)
 ; 
@@ -109,7 +109,7 @@ ALTER TABLE NGE.ExportStage
 ADD ExportYear CHAR(20)
 ;
 
-
+-- Update
 UPDATE NGE.ExportStage
 SET ExportMonth = MONTH(ExportDate)
 ;
